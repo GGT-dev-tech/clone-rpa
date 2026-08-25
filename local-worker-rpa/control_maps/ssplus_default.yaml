@@ -1,0 +1,198 @@
+# =============================================================================
+# CONTROL MAP — ERP SSPlus
+# Perfil padrão — preencha substituindo todos os "???" com os valores reais.
+#
+# Como descobrir os valores:
+#   1. Abra o ERP SSPlus
+#   2. Execute: python tools/inspect_erp.py
+#   3. Use o Modo 3 (hover) ou Modo 4 (busca) para cada controle
+#   4. Substitua "???" pelo valor encontrado
+#   5. Valide com o Modo 6
+#
+# Campos de cada controle:
+#   title       — texto visível do controle (window_text)
+#   control_type — tipo Win32: Edit, Button, MenuItem, List, etc.
+#   auto_id     — AutomationId (preferível ao title — mais estável)
+#   class_name  — ClassName Win32 (ex: TEdit, TButton, #32770)
+# =============================================================================
+
+erp_profile: ssplus_default
+backend: win32                       # win32 ou uia
+main_window_title_re: ".*SSPlus.*"   # regex que identifica a janela principal
+
+# ---------------------------------------------------------------------------
+# Pop-ups conhecidos — fechados automaticamente antes de cada ação
+# ---------------------------------------------------------------------------
+known_popups:
+  dismiss_titles:
+    - "Aviso"
+    - "Atenção"
+    - "Informação"
+    - "Erro"
+    - "Confirmação"
+    - "SSPlus"
+  dismiss_buttons:
+    - "OK"
+    - "&OK"
+    - "Fechar"
+    - "Cancelar"
+    - "&Fechar"
+    - "Sim"
+
+# ---------------------------------------------------------------------------
+# FLUXO 1: Baixa no Contas a Pagar
+# ---------------------------------------------------------------------------
+flows:
+  BAIXA_CONTAS_PAGAR:
+    _comment: >
+      Mapeamento da tela de liquidação de duplicatas.
+      Navegação: Menu Financeiro → Contas a Pagar → Baixa de Títulos.
+
+    menu:
+      # Item de menu de nível 1 (barra de menus principal)
+      financeiro:
+        title: "???"          # ex: "Financeiro", "Finanças"
+        control_type: MenuItem
+
+      # Submenu dentro de Financeiro
+      contas_pagar:
+        title: "???"          # ex: "Contas a Pagar", "C. Pagar"
+        control_type: MenuItem
+
+      # Item final: abre a tela de baixa
+      baixa_titulos:
+        title: "???"          # ex: "Baixa de Títulos", "Liquidação"
+        control_type: MenuItem
+
+      # Teclas de atalho como fallback (formato pywinauto type_keys)
+      hotkey_financeiro: "???"    # ex: "%F" para Alt+F
+      hotkey_contas_pagar: "???"  # ex: "C"
+      hotkey_baixa: "???"         # ex: "B"
+
+    tela_pesquisa:
+      # Campo onde se digita o código/ID da duplicata
+      campo_duplicata_id:
+        title: "???"          # ex: "Cod. Duplicata", "Nº Título"
+        control_type: Edit
+        auto_id: "???"        # preferível — use o inspector para descobrir
+
+      botao_pesquisar:
+        title: "???"          # ex: "Pesquisar", "&Pesquisar", "Buscar"
+        control_type: Button
+
+      # Grid/lista onde os resultados aparecem
+      lista_resultados:
+        control_type: List    # pode ser: List, DataGrid, TDBGrid
+        auto_id: "???"
+        class_name: "???"     # ex: "TDBGrid", "TListView"
+
+    tela_baixa:
+      # Campo de data do pagamento
+      campo_data_pagamento:
+        title: "???"          # ex: "Dt. Pagamento", "Data Pgto"
+        control_type: Edit
+        auto_id: "???"
+        date_format: "dd/MM/yyyy"   # formato aceito pelo ERP
+
+      # Campo do valor pago
+      campo_valor_pago:
+        title: "???"          # ex: "Vlr. Pago", "Valor"
+        control_type: Edit
+        auto_id: "???"
+        decimal_separator: ","      # vírgula ou ponto
+
+      # Campo da conta bancária
+      campo_conta:
+        title: "???"          # ex: "Conta", "Cód. Conta"
+        control_type: Edit
+        auto_id: "???"
+
+      # Campo de observação (opcional)
+      campo_observacao:
+        title: "???"          # ex: "Observação", "Obs."
+        control_type: Edit
+        auto_id: "???"
+        optional: true
+
+      # Botão de confirmação da baixa
+      botao_confirmar:
+        title: "???"          # ex: "Confirmar", "Salvar", "&Confirmar"
+        control_type: Button
+
+      # Hotkey alternativa se o botão não for encontrado
+      hotkey_confirmar: "???" # ex: "{F9}", "^s"
+
+    popup_confirmacao:
+      # Regex do título do pop-up de confirmação após salvar
+      title_re: "Confirmação|Sucesso|???"
+      # Regex para extrair número de protocolo do texto do pop-up
+      regex_protocolo: "Protocolo[:\\s]+(\\w+)"
+
+# ---------------------------------------------------------------------------
+# FLUXO 2: Observações e Anexos em Ordem de Serviço
+# ---------------------------------------------------------------------------
+  OBSERVACAO_OS:
+    _comment: >
+      Mapeamento da tela de Ordens de Serviço.
+      Navegação: Menu Serviços → Ordem de Serviço.
+
+    menu:
+      servicos:
+        title: "???"          # ex: "Serviços", "OS", "Técnico"
+        control_type: MenuItem
+
+      ordem_servico:
+        title: "???"          # ex: "Ordem de Serviço", "OS"
+        control_type: MenuItem
+
+      hotkey_servicos: "???"  # ex: "%S"
+      hotkey_os: "???"        # ex: "O"
+
+    tela_pesquisa:
+      campo_os_id:
+        title: "???"          # ex: "Nº OS", "Cód. OS"
+        control_type: Edit
+        auto_id: "???"
+
+      botao_pesquisar:
+        title: "???"
+        control_type: Button
+
+      lista_resultados:
+        control_type: List
+        auto_id: "???"
+        class_name: "???"
+
+    tela_os:
+      # Campo de texto de observações
+      # Pode ter mais de um nome — tenta em ordem até encontrar
+      campo_observacao:
+        titles_to_try:
+          - "???"             # ex: "Observações"
+          - "???"             # ex: "Obs."
+          - "???"             # ex: "Descrição"
+        control_type: Edit
+        auto_id: "???"
+
+      # Botão que abre o diálogo de seleção de arquivo para anexo
+      botao_anexar:
+        title: "???"          # ex: "Anexar", "Adicionar Anexo", "Clipes"
+        control_type: Button
+
+      botao_salvar:
+        title: "???"          # ex: "Salvar", "&Salvar"
+        control_type: Button
+
+      hotkey_salvar: "???"    # ex: "^s" para Ctrl+S
+
+    # Diálogo de arquivo nativo do Windows (abrir arquivo)
+    dialog_arquivo:
+      title_re: "Abrir|Open"
+      class_name: "#32770"    # Classe do diálogo nativo — normalmente não muda
+      campo_nome:
+        control_type: Edit
+        # auto_id do campo "Nome do arquivo:" no diálogo nativo
+        # Normalmente é "1148" no Windows 10/11, mas pode variar
+        auto_id: "1148"
+      botao_abrir:
+        title: "&Abrir"       # "&Abrir" no PT-BR, "&Open" em EN

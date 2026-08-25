@@ -1,0 +1,57 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: auto-adm-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: auto_adm
+      POSTGRES_USER: auto_adm
+      POSTGRES_PASSWORD: auto_adm_dev_pass
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U auto_adm"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: auto-adm-redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  api:
+    build:
+      context: ./backend-cloud
+      dockerfile: Dockerfile
+    container_name: auto-adm-api
+    restart: unless-stopped
+    env_file:
+      - ./backend-cloud/.env
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ./backend-cloud/app:/app/app   # Hot reload em dev
+
+volumes:
+  postgres_data:
+  redis_data:

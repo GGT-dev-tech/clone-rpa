@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "auto-adm-worker"
+version = "1.0.0"
+description = "Worker RPA local para automação do ERP SSPlus no Windows"
+authors = ["auto-adm team"]
+python = "^3.11"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+# RPA
+pywinauto = "^0.6.8"
+pyautogui = "^0.9.54"
+opencv-python-headless = "^4.9.0"  # OpenCV sem GUI (fallback de imagem)
+Pillow = "^10.0.0"
+# Rede
+websockets = "^12.0"
+requests = "^2.31.0"
+# Config / Validação
+pydantic = "^2.7.0"
+pydantic-settings = "^2.3.0"
+# Retry
+tenacity = "^8.3.0"
+# Logging
+structlog = "^24.1.0"
+rich = "^13.7.0"
+# Empacotamento
+pyinstaller = { version = "^6.8.0", optional = true }
+
+[tool.poetry.extras]
+build = ["pyinstaller"]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.0"
+pytest-asyncio = "^0.23.0"
+ruff = "^0.4.0"
+mypy = "^1.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

@@ -1,0 +1,100 @@
+# =============================================================================
+# auto-adm — .gitignore
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtualenvs
+.venv/
+venv/
+env/
+ENV/
+.env
+!.env.example
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# pytest / cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# mypy / ruff
+.mypy_cache/
+.ruff_cache/
+
+# PyInstaller
+*.spec
+local-worker-rpa/dist/
+local-worker-rpa/build/
+
+# ---------------------------------------------------------------------------
+# Worker Local — dados sensíveis e temporários
+# ---------------------------------------------------------------------------
+local-worker-rpa/.env
+local-worker-rpa/worker_state.db
+local-worker-rpa/temp/
+local-worker-rpa/logs/
+# Dumps de inspeção (gerados pela ferramenta, não commitados)
+local-worker-rpa/control_maps/dump_*.json
+# Screenshots de erro (gerados em runtime)
+local-worker-rpa/logs/screenshots/
+
+# ---------------------------------------------------------------------------
+# Backend Cloud
+# ---------------------------------------------------------------------------
+backend-cloud/.env
+
+# ---------------------------------------------------------------------------
+# Frontend
+# ---------------------------------------------------------------------------
+frontend-app/node_modules/
+frontend-app/dist/
+frontend-app/.env
+frontend-app/.env.local
+frontend-app/.env.production
+
+# ---------------------------------------------------------------------------
+# Docker
+# ---------------------------------------------------------------------------
+.docker/
+
+# ---------------------------------------------------------------------------
+# IDEs e editores
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------------------
+# Logs gerais
+# ---------------------------------------------------------------------------
+*.log
+logs/
+
+# ---------------------------------------------------------------------------
+# Segredos / credenciais (nunca commitar)
+# ---------------------------------------------------------------------------
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
