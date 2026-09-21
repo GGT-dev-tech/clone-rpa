@@ -1,0 +1,746 @@
+{
+  "0001": {
+    "nome_identificado": "001680 4,82 9900071 DD VIDROS PECAS E SERVICOS AUTOMOTIVOS LTDA",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "revisado": true
+  },
+  "0000134": {
+    "nome_identificado": "PREFEITURA DO MUNICIPIO DE BALNEARIO CAMBORIU ISS RETIDO MATRIZ-BC",
+    "codigo_coi": "005657",
+    "descricao_coi": "PAG. TAXAS MUNICIPAIS",
+    "revisado": true
+  },
+  "0001402": {
+    "nome_identificado": "SANDRO OSMAR DA VEIGA LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0078634": {
+    "nome_identificado": "LOJAS MILIUM LTDA ESTILETE E SOQUETE",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "9900071": {
+    "nome_identificado": "DD VIDROS PECAS E SERVICOS AUTOMOTIVOS LTDA",
+    "codigo_coi": "000035",
+    "descricao_coi": "RECEBIMENTO",
+    "revisado": true
+  },
+  "0003786": {
+    "nome_identificado": "SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA",
+    "codigo_coi": "005940",
+    "descricao_coi": "PAG. EMPRESTIMO BANCO BRASIL BB",
+    "revisado": false
+  },
+  "0080959": {
+    "nome_identificado": "AGROVILLE MAQUINAS LTDA MANUTENCAO APLICADOR S ILICONE",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0001112": {
+    "nome_identificado": "SEMASA SERV. MUNIC. AGUA E SANEAM. BASICO INFRA ÁGUA - MATRÍCULA 4187- 4",
+    "codigo_coi": "005622",
+    "descricao_coi": "PAG. DESPESAS C/ AGUA",
+    "revisado": false
+  },
+  "0000820": {
+    "nome_identificado": "MUNICIPIO DE ITAJAI ISS RETIDO MATRIZ",
+    "codigo_coi": "005630",
+    "descricao_coi": "PAG. ISS",
+    "revisado": true
+  },
+  "0006391": {
+    "nome_identificado": "CELESC DISTRIBUIDORA S.A ENERGIA ELÉTRICA MTZ - SALA 04 - UN. CONS. 40831207",
+    "codigo_coi": "005649",
+    "descricao_coi": "PAG. ENERGIA ELETRICA",
+    "revisado": true
+  },
+  "0203246": {
+    "nome_identificado": "POSTO CIDADE DO PORTO LTDA ABASTECIMENTO 30/12/20 24 QHJ4459",
+    "codigo_coi": "005126",
+    "descricao_coi": "PAG. DESPESAS C/ COMBUSTIVEIS",
+    "revisado": false
+  },
+  "3350261": {
+    "nome_identificado": "CDC CARGAS E TRANSPORTES LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0071898": {
+    "nome_identificado": "TRANSPORTE E LOGISTICA ARCANJO LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "6460680": {
+    "nome_identificado": "CASA DAS CHAVES ZULIAN LTDA CHAVE SANDERO QUEB.OFI CINA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0216097": {
+    "nome_identificado": "METRONORTE COMERCIAL DE VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0101396": {
+    "nome_identificado": "AUTARQUIA MUNICIPAL DE TRÂNSITO - BC TRÂNSITO MULTA DE TRANSITO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0032476": {
+    "nome_identificado": "AMERICA LATINA INDUSTRIA E COMERCIO DE VIDROS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0053253": {
+    "nome_identificado": "CADO ESTAMPARIA IND E COM DE CONFECCOES LTDA ESTAMPAS CAMISETAS FIN AL DE ANO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0051885": {
+    "nome_identificado": "UNIFIQUE TELECOMUNICACOES LTDA INTERNET MATRIZ",
+    "codigo_coi": "005071",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "0085191": {
+    "nome_identificado": "CTBA DISTRIBUICAO LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0002": {
+    "nome_identificado": "009847 149,77 0072812 SANDRO OSMAR DA VEIGA LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0025493": {
+    "nome_identificado": "VIDRAMA VIDROS AUTOMOTIVOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "3000227": {
+    "nome_identificado": "TRANSBUS COMERCIO DE PECAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0027229": {
+    "nome_identificado": "CANAVERAL PRODUTOS DE HIGIENE E LIMPEZA LTDA ME DIVERSOS",
+    "codigo_coi": "004995",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "6510687": {
+    "nome_identificado": "KITS AUTO PECAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0050031": {
+    "nome_identificado": "BREITKOPF FRANCE VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0072197": {
+    "nome_identificado": "BULDOGUE AUTO CENTER LTDA SERVIÇOS SAVEIRO RKW5I 46",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0017501": {
+    "nome_identificado": "METRONORTE COMERCIAL DE VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "2090136": {
+    "nome_identificado": "MUNDIAL COMERCIO DE TINTAS LTDA (ME) TINTAS - PARCELADO NO CARTÃO EM 5X",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0200433": {
+    "nome_identificado": "ORSEGUPS MONITORAMENTO ELETRONICO LTDA MONIT. DE IMAGENS C/ E QUIP. RES. SR. ONEIDE",
+    "codigo_coi": "005061",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "0017908": {
+    "nome_identificado": "MG VIDROS AUTOMOTIVOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0144991": {
+    "nome_identificado": "SMT OCUPACIONAL MENSALIDADE SMT REF. E -SOCIAL - MATRIZ",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "revisado": false
+  },
+  "0006056": {
+    "nome_identificado": "FLORENCA VEICULOS SA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0001075": {
+    "nome_identificado": "PAPEIS E PAPEIS PAPELARIA E INFORMATICA LTDA EPP BOBINAS PARA RELOGIO P ONTO",
+    "codigo_coi": "004707",
+    "descricao_coi": "PAG. DE MANUTENÇÃO DE INFORMÁTICA",
+    "revisado": false
+  },
+  "3157262": {
+    "nome_identificado": "LOJA DO PONTO TECNOLOGIA EIRELI ME RELOGIO PONTO PONTUAL",
+    "codigo_coi": "005428",
+    "descricao_coi": "PAG. BK INST. PAG - PONTUAL MATRIZ",
+    "revisado": false
+  },
+  "0070112": {
+    "nome_identificado": "DE MARCO LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0169870": {
+    "nome_identificado": "BRADESCO AUTO RE COMPANHIA DE SEGUROS SEGURO SAVEIRO QHO9248 - VIG. 23.12.24 A 23.12.25",
+    "codigo_coi": "004154",
+    "descricao_coi": "DEBITO BRADESCO 023046-4",
+    "revisado": false
+  },
+  "0070610": {
+    "nome_identificado": "RODONAVES TRANS E ENCOMENDAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "3177280": {
+    "nome_identificado": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "7450790": {
+    "nome_identificado": "VIA COMERCIAL DE EMBALAGENS EIRELI PLASTICO BOLHA E DETER GENTE",
+    "codigo_coi": "005185",
+    "descricao_coi": "PAG. DESPESAS C/ EMBALAGENS",
+    "revisado": false
+  },
+  "0001808": {
+    "nome_identificado": "JAHU BORRACHAS E AUTOPECAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0003": {
+    "nome_identificado": "143293 285,69 0001808 JAHU BORRACHAS E AUTOPECAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0026169": {
+    "nome_identificado": "BARI VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "2440570": {
+    "nome_identificado": "ALLIANZ SEGUROS SEGURO CG 150 QHJ4459 (05/10 - 15/11 - 15/12 - 15/01/25)",
+    "codigo_coi": "005177",
+    "descricao_coi": "PAG. DESPESAS C/ SEGUROS",
+    "revisado": false
+  },
+  "0163147": {
+    "nome_identificado": "AUTOPLUS VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0047734": {
+    "nome_identificado": "AMANDA WANZUITA ME CONSERTO E BATERIA P/ NOBREAK CENTRAL TELEFONICA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0008587": {
+    "nome_identificado": "CUNHADOS TRUCK CENTER COMERCIO DE AUTO PECAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0004": {
+    "nome_identificado": "484907 348,36 0017908 MG VIDROS AUTOMOTIVOS LTDA",
+    "codigo_coi": "004561",
+    "descricao_coi": "PAGAM. INFINITEPAY 07 - DD VIDROS",
+    "revisado": false
+  },
+  "3184290": {
+    "nome_identificado": "ALGAR TELECON S/A INTERNET MATRIZ",
+    "codigo_coi": "005071",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "0000553": {
+    "nome_identificado": "TSD LOGISTICA E DISTRIBUIDORA LTDA - JOINVILLE",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0053255": {
+    "nome_identificado": "PILKINGTON BRASIL LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0224324": {
+    "nome_identificado": "DM DISTRIBUIDORA LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0002205": {
+    "nome_identificado": "DELTA VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0005251": {
+    "nome_identificado": "FANAVID FABRICA NACIONAL DE VIDROS DE SEGURANCA LT",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0140694": {
+    "nome_identificado": "NUCLEO SOLUCOES AUTOMOTIVAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0008319": {
+    "nome_identificado": "NIX COMERCIO DE AUTOMOVEIS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0037719": {
+    "nome_identificado": "BREITKOPF VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "3130216": {
+    "nome_identificado": "TOGNI AUTO PECAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0005": {
+    "nome_identificado": "171282 411,17 0001402 SANDRO OSMAR DA VEIGA LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0004991": {
+    "nome_identificado": "CENTERPARTS DISTRIB DE AUTO PARTES LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0209643": {
+    "nome_identificado": "HOIERS BEBIDAS LTDA BOMBONAS DE AGUA 20L",
+    "codigo_coi": "005622",
+    "descricao_coi": "PAG. DESPESAS C/ AGUA",
+    "revisado": false
+  },
+  "7860834": {
+    "nome_identificado": "RAPHAEL ROBERTO DOS REIS VIRTUAL PARC ÚNICA JAN /25 - PIX: FINANCEIRO@VIRTUALAGENCIA.COM.BR",
+    "codigo_coi": "004855",
+    "descricao_coi": "PAG. PROPAGANDA E PUBLICIDADE",
+    "revisado": true
+  },
+  "6940736": {
+    "nome_identificado": "JACIR DA COSTA VIANA FILHO -EPP",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0103519": {
+    "nome_identificado": "DRTIC - EIRELI SERVIÇOS DE INFORMATIC A - TI",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0006": {
+    "nome_identificado": "304468 500,00 0005251 FANAVID FABRICA NACIONAL DE VIDROS DE SEGURANCA LT",
+    "codigo_coi": "005061",
+    "descricao_coi": "PAG. DESPESAS COM SEGURANÇA",
+    "revisado": false
+  },
+  "0015836": {
+    "nome_identificado": "TSD LOGISTICA E DISTRIBUIDORA LTDA",
+    "codigo_coi": "004863",
+    "descricao_coi": "PAG. DESPESAS COM FRETE",
+    "revisado": false
+  },
+  "0000236": {
+    "nome_identificado": "TAKAI VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0198994": {
+    "nome_identificado": "SAVARAUTO 2000 COM DE VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0045225": {
+    "nome_identificado": "DIMAS COMERCIO DE VEICULOS IMPORTADOS LTDA REVISÃO/BALANCEAMENTO/ GEOMETRIA - RKX9C00 LARISSA",
+    "codigo_coi": "004820",
+    "descricao_coi": "PAG. MANUT. VEICULOS PRODUTO",
+    "revisado": false
+  },
+  "0000789": {
+    "nome_identificado": "POWER IMPORTS VEICULOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0037452": {
+    "nome_identificado": "DALLMARC IMPORTS IMPORTADORA LTDA - ME",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0003812": {
+    "nome_identificado": "VETROEX IND E COM DE VID DE SEG LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0076585": {
+    "nome_identificado": "COML. MAT. CONST., ELETRO, EQUIP. MAT. ELET. SESTR DIVERSOS",
+    "codigo_coi": "005411",
+    "descricao_coi": "RECEB. BK INST. PAG - PONTUAL MAT.",
+    "revisado": false
+  },
+  "0086603": {
+    "nome_identificado": "GT LUB VENDAS E SERVICOS LTDA PEÇAS PARA SAVEIRO QHO 2459",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0153631": {
+    "nome_identificado": "ELISANGELA ROLOFF MENDEZ PAGAMENTO POR PIX CHAV E: 47991941604 - ELISÂNGELA ROLOFF MENDEZ",
+    "codigo_coi": "004944",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "0083634": {
+    "nome_identificado": "MELQUISEDEC ADRIAN GROPPO PENSÃO PRETO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0048654": {
+    "nome_identificado": "DISK-BOR COMERCIO DE BORRACHAS - EIRELI",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0007": {
+    "nome_identificado": "484201 656,47 0017908 MG VIDROS AUTOMOTIVOS LTDA",
+    "codigo_coi": "004561",
+    "descricao_coi": "PAGAM. INFINITEPAY 07 - DD VIDROS",
+    "revisado": false
+  },
+  "0077978": {
+    "nome_identificado": "DIMAS GWM COMERCIO DE AUTOMOVEIS IMPORTADOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0003279": {
+    "nome_identificado": "ZANELLA ADM CORRETAGEM SEGUROS LTDA SEGURO SAVEIRO RKW5I46 NO CPF SR. ONEIDE (6X: 12/08 A 12/01/2025)",
+    "codigo_coi": "005177",
+    "descricao_coi": "PAG. DESPESAS C/ SEGUROS",
+    "revisado": false
+  },
+  "0101517": {
+    "nome_identificado": "RESCISÃO RESCISÃO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0003881": {
+    "nome_identificado": "WH COMERCIO EXTERIOR LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "1100034": {
+    "nome_identificado": "MASTIFLEX IND DE SELANTES E MASSAS LTDA.",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "3230338": {
+    "nome_identificado": "TEC-SOLUTIONS COMERCIO DE MATERIAIS & COMPONENTES",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0087034": {
+    "nome_identificado": "DEPTO. POLICIA RODOVIARIA FEDERAL MULTA SAVEIRO QHO9248",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0071904": {
+    "nome_identificado": "ADMINISTRADORA DE CARTAO DE TODOS ITAJAI LTDA ME CARTÃO DE TODOS MATRIZ",
+    "codigo_coi": "003069",
+    "descricao_coi": "DESCONTO ANTECIPADO ADMINISTRADORA",
+    "revisado": false
+  },
+  "0146234": {
+    "nome_identificado": "BUGGY VEST UNIFORMES LTDA CAMISETAS DE UNIFORME",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0218480": {
+    "nome_identificado": "TARGET NEGOCIOS DE INFORMACOES LTDA ME CONSULTA CNPJ DOS CLIE NTES",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0000424": {
+    "nome_identificado": "HAI AUTOMOVEIS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0101566": {
+    "nome_identificado": "LUANA DUWE DOS SANTOS VIEIRA PENSÃO LUCAS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0008": {
+    "nome_identificado": "022374 816,50 0045225 DIMAS COMERCIO DE VEICULOS IMPORTADOS LTDA PEÇAS PARA RKX9C00 LAR ISSA",
+    "codigo_coi": "004820",
+    "descricao_coi": "PAG. MANUT. VEICULOS PRODUTO",
+    "revisado": false
+  },
+  "0051235": {
+    "nome_identificado": "NB PROPAGANDA EIRELE FRONT LIGHT DUPLO BC B R 101 KM 143",
+    "codigo_coi": "004855",
+    "descricao_coi": "PAG. PROPAGANDA E PUBLICIDADE",
+    "revisado": false
+  },
+  "0133620": {
+    "nome_identificado": "CENTRO DE GESTAO DE MEIOS DE PGTO SEM PARAR MATRIZ",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "revisado": false
+  },
+  "0081265": {
+    "nome_identificado": "LEAO GESTAO EMPRESARIAL HONORARIOS AUDITORIA P ONTUAL",
+    "codigo_coi": "005576",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "0214116": {
+    "nome_identificado": "TSD LOGISTICA E DISTRIBUIDORA LTDA - PORTO ALEGRE",
+    "codigo_coi": "004863",
+    "descricao_coi": "PAG. DESPESAS COM FRETE",
+    "revisado": false
+  },
+  "0009": {
+    "nome_identificado": "029451 1.026,58 0070112 DE MARCO LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0086409": {
+    "nome_identificado": "MEGA VIDROS PECAS E ACESSORIOS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0022433": {
+    "nome_identificado": "AUTOTRAVI BORRACHAS E PLASTICOS EIRELI",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0027333": {
+    "nome_identificado": "EXPRESSO SAO MIGUEL LTDA - MATRIZ",
+    "codigo_coi": "005770",
+    "descricao_coi": "FRETE INTERMEDIADOR",
+    "revisado": true
+  },
+  "0258271": {
+    "nome_identificado": "AUTOMIX AUTOMOTIVE GLASS PECAS E ACESSORIOS AUTOMO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0053468": {
+    "nome_identificado": "PSG IND E COMERCIO DE VIDROS LTDA",
+    "codigo_coi": "004561",
+    "descricao_coi": "PAGAM. INFINITEPAY 07 - DD VIDROS",
+    "revisado": false
+  },
+  "3326437": {
+    "nome_identificado": "SS COMP SISTEMAS DE INFORMATICA LTDA SISTEMA SS MATRIZ",
+    "codigo_coi": "004650",
+    "descricao_coi": "PAG.",
+    "revisado": true
+  },
+  "0010": {
+    "nome_identificado": "305711 1.253,99 0005251 FANAVID FABRICA NACIONAL DE VIDROS DE SEGURANCA LT",
+    "codigo_coi": "005061",
+    "descricao_coi": "PAG. DESPESAS COM SEGURANÇA",
+    "revisado": false
+  },
+  "0075551": {
+    "nome_identificado": "TEKMARK TECNOLOGIA EM MARCACAO LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0072261": {
+    "nome_identificado": "JANINHA BRATFICH 13 DIARIAS NA MTZ - PA GAR C/ PIX",
+    "codigo_coi": "005691",
+    "descricao_coi": "PIX A RECEBER",
+    "revisado": false
+  },
+  "5070517": {
+    "nome_identificado": "DESTACO PAINEIS LTDA VEICULAÇÕES DE PAINÉIS PUBLICITÁRIOS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "3247355": {
+    "nome_identificado": "REAL VIDROS COMERCIO DE VIDROS LTDA PAGAMENTO FEITO EM PPI X",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "0100674": {
+    "nome_identificado": "FERIAS FUNCIONARIO FERIAS",
+    "codigo_coi": "003581",
+    "descricao_coi": "PAGAMENTO DE FERIAS",
+    "revisado": false
+  },
+  "7320776": {
+    "nome_identificado": "CADO MALHAS CONFECCOES E ESTAMPARIA ME CAMISETAS FINAL DE ANO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0011": {
+    "nome_identificado": "304750 1.825,02 0005251 FANAVID FABRICA NACIONAL DE VIDROS DE SEGURANCA LT",
+    "codigo_coi": "005061",
+    "descricao_coi": "PAG. DESPESAS COM SEGURANÇA",
+    "revisado": false
+  },
+  "0104108": {
+    "nome_identificado": "TIM S.A. CELULAR MATRIZ 47-9843 7.7000 / 47-98477.7000",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "revisado": false
+  },
+  "0003160": {
+    "nome_identificado": "ITAPEVA COMERCIO DE VIDROS LTDA-FILIAL PRIMEIRO PAGAMENTO FOI FEITO PIX",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": true
+  },
+  "1340058": {
+    "nome_identificado": "CONTABILIDADE LIDER HONORARIOS CONTABEIS M ATRIZ",
+    "codigo_coi": "004685",
+    "descricao_coi": "PAG. DE HONORÁRIOS CONTÁBEIS",
+    "revisado": false
+  },
+  "0000325": {
+    "nome_identificado": "BANCO VOLKSWAGEN SAVEIRO 0KM 5189680601 (36X: DE 07/2024 ATÉ 06/2027)",
+    "codigo_coi": "005347",
+    "descricao_coi": "PAG. AQUISIÇÃO",
+    "revisado": true
+  },
+  "0072683": {
+    "nome_identificado": "AUTOVEX COMERCIO DE PECAS AUTOMOTIVAS LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "3328441": {
+    "nome_identificado": "HERIBERTO MELLO ALUGUEL MATRIZ",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "revisado": false
+  },
+  "0012": {
+    "nome_identificado": "022123 3.775,72 0053255 PILKINGTON BRASIL LTDA",
+    "codigo_coi": "005940",
+    "descricao_coi": "PAG. EMPRESTIMO BANCO BRASIL BB",
+    "revisado": false
+  },
+  "0000077": {
+    "nome_identificado": "LARISSA DAMBROS CHAVE PIX 112.356.388- 80 IVANI CALAMIA",
+    "codigo_coi": "005754",
+    "descricao_coi": "PAGAMENTOS LARISSA",
+    "revisado": false
+  },
+  "0165883": {
+    "nome_identificado": "COOPERATIVA DE CREDITO VALE DO ITAJAI VIACREDI CARTAO MASTER VIACREDI 4199 - MATRIZ",
+    "codigo_coi": "003921",
+    "descricao_coi": "(+) CREDITO DEV. COMPRA",
+    "revisado": false
+  },
+  "0082494": {
+    "nome_identificado": "GISELE DAMBROS LOURENCO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "revisado": false
+  },
+  "0072808": {
+    "nome_identificado": "IFOOD BENEFICIOS E SERVICOS LTDA CARTÕES BENEFICIOS MAT RIZ",
+    "codigo_coi": "004944",
+    "descricao_coi": "PAG. DESPESAS COM SERVIÇOS",
+    "revisado": false
+  },
+  "0019078": {
+    "nome_identificado": "GEOVANNI ANDREY MARTINS ALUGUEL MATRIZ SR. MAR TINS",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "revisado": false
+  },
+  "0172006": {
+    "nome_identificado": "SALARIOS VALES MATRIZ",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "revisado": false
+  },
+  "1390063": {
+    "nome_identificado": "FGTS GUIA FGTS",
+    "codigo_coi": "004677",
+    "descricao_coi": "PAG. DE FGTS A RECOLHER",
+    "revisado": false
+  }
+}

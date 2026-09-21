@@ -11,7 +11,7 @@ from fastapi import FastAPI, Request, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
-from app.api.v1.routes import tasks
+from app.api.v1.routes import tasks, conciliador
 from app.api.ws import worker_gateway
 from app.core.config import get_settings
 from app.core.redis import close_redis, init_redis
@@ -58,6 +58,7 @@ def create_app() -> FastAPI:
 
     # --- Rotas REST ---
     app.include_router(tasks.router, prefix="/api/v1/tasks", tags=["Tasks"])
+    app.include_router(conciliador.router, prefix="/api/v1/conciliador", tags=["Conciliador Engine"])
 
     # --- WebSocket Worker ---
     app.include_router(worker_gateway.router, tags=["Worker Gateway"])

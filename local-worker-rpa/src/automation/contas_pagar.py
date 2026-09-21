@@ -39,6 +39,7 @@ class BaixaContasPagarInput:
     valor: Decimal
     conta: str
     observacao: str | None = None
+    codigo_coi: str | None = None
 
 
 @dataclass(frozen=True)
@@ -205,6 +206,15 @@ class ContasPagarAutomation(BaseAutomation):
                 f"{_FLOW}.tela_baixa.campo_observacao",
                 data.observacao,
                 use_clipboard=True,  # Acentos seguros
+            )
+
+        if data.codigo_coi:
+            self._logger.debug("Inserindo código COI", codigo=data.codigo_coi)
+            # A digitação no ERP pode ser rápida, garantimos a seleção
+            self.loc.type_text(
+                window,
+                f"{_FLOW}.tela_baixa.campo_codigo_coi",
+                data.codigo_coi
             )
 
     def _confirmar_e_obter_protocolo(self, window) -> str | None:

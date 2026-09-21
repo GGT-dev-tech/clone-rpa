@@ -48,6 +48,7 @@ class BaixaContasPagarPayload(BaseModel):
     valor: Annotated[Decimal, Field(gt=0, decimal_places=2)]
     conta: Annotated[str, Field(min_length=1, max_length=50)]
     observacao: str | None = Field(default=None, max_length=500)
+    codigo_coi: str | None = Field(default=None, max_length=20)
 
 
 class ObservacaoOSPayload(BaseModel):

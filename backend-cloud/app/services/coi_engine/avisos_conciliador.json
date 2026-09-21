@@ -1,0 +1,13 @@
+[
+  {
+    "desc_banco": "PGT.FATURA CARTAO",
+    "observacao": "são varios coi, no caso depende do que esta no cupom fiscal deixar so um aviso",
+    "coi_atual": "003166"
+  },
+  {
+    "tipo": "COI_MULTIPLO",
+    "padrao_banco": "PGT\\.FATURA\\ CARTAO",
+    "motivo": "são varios coi, no caso depende do que esta no cupom fiscal deixar so um aviso",
+    "acao": "Requer classificação manual - COI depende do conteúdo do cupom/fatura"
+  }
+]

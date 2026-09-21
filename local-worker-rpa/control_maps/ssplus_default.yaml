@@ -87,6 +87,13 @@ flows:
         class_name: "???"     # ex: "TDBGrid", "TListView"
 
     tela_baixa:
+      # Campo do código COI (Cód. Contábil)
+      campo_codigo_coi:
+        title: "Cód. Contábil"  # Valor temporário até inspecionar
+        control_type: Edit
+        auto_id: "???"
+        optional: true
+
       # Campo de data do pagamento
       campo_data_pagamento:
         title: "???"          # ex: "Dt. Pagamento", "Data Pgto"

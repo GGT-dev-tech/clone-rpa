@@ -1,0 +1,902 @@
+[
+  {
+    "padrao": "CR\\.DESC\\.TIT\\.PAG\\.MAIOR",
+    "codigo_coi": "000061",
+    "descricao_coi": "JUROS RECEBIDOS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CREDITO\\ PIX\\ \\-\\ PONTUAL\\ AUTO\\ VIDROS\\ LTDA",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CREDITO\\ PIX\\ \\-\\ PONTUAL\\ AUTO\\ VIDROS\\ EIRELI",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PIX\\ TRANSF\\ PAGADOR",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PGTO\\.\\ DESC\\.\\ TITULO",
+    "codigo_coi": "004766",
+    "descricao_coi": "PAGAMENTO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "VENDA\\ CIELO\\ \\(CRED\\)",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CRED\\.COBR\\.CE",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CRED\\.COBR\\.CX",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "VENDA\\ CIELO\\ \\(DEB\\)",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ EXPRESSO\\ SAO\\ MIGUEL\\ S\\ A",
+    "codigo_coi": "005770",
+    "descricao_coi": "FRETE INTERMEDIADOR",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MUNICIPIO\\ DE\\ BALNEARIO\\ CAMBORI",
+    "codigo_coi": "005657",
+    "descricao_coi": "PAG. TAXAS MUNICIPAIS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ ALGAR\\ TELECOM\\ S\\ A",
+    "codigo_coi": "005071",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ UNIFIQUE\\ TELECOMUNICACOES\\ S\\ A",
+    "codigo_coi": "005071",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MUNICIPIO\\ DE\\ ITAJAI",
+    "codigo_coi": "005630",
+    "descricao_coi": "PAG. ISS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ EXPRESSO\\ SAO\\ MI",
+    "codigo_coi": "005770",
+    "descricao_coi": "FRETE INTERMEDIADOR",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SS\\ COMP\\ SISTEMA",
+    "codigo_coi": "004650",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "BAIXA\\ BOLETO",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CHEQUE\\ COMP\\.",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CHEQUE",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SB\\ CREDITO\\ FUNDO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SB\\ CREDITO\\ FUND",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ ITAU\\ UNIBANCO\\ HOLDING\\ S\\.A\\.",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BANCO\\ ITAU\\ S\\ A",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ COBRANCA",
+    "codigo_coi": "005088",
+    "descricao_coi": "EMPRÉSTIMO PARA TERCEIROS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ FERIAS",
+    "codigo_coi": "003581",
+    "descricao_coi": "PAGAMENTO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEPOSITO",
+    "codigo_coi": "004243",
+    "descricao_coi": "DEPOSITO VIACREDI-01 1171347-0",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BRADESCO\\ SEGUROS\\ \\-\\ SEGURO\\ AUTO",
+    "codigo_coi": "005177",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BANCO\\ BRADESCO\\ S\\.A",
+    "codigo_coi": "004928",
+    "descricao_coi": "PAGAMENTOS ONEIDE",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CARTAO\\ BRADESCO\\ 5050\\ 17\\ 01\\ 25",
+    "codigo_coi": "004928",
+    "descricao_coi": "PAGAMENTOS ONEIDE",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BRADESCO\\ SEGURO",
+    "codigo_coi": "005754",
+    "descricao_coi": "PAGAMENTOS LARISSA",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ ITALAJES\\ VIDROS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MG\\ VIDROS\\ AUTOMOTIVOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ VIDRAMA\\ VIDROS\\ AUTOMOTIVOS\\ LTD",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ VETROEX\\ INDUSTRIA\\ E\\ COMERCIO\\ D",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ VIDRAMA\\ VIDROS\\ AUTOM\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MG\\ VIDROS\\ AUTOM",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AMERICA\\ LATINA\\ INDUSTRIA\\ E\\ COM",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MEGA\\ VIDROS\\ PECAS\\ E\\ ACESSORIOS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ ITAPEVA\\ COMERCIO\\ DE\\ VIDROS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ REAL\\ VIDROS\\ COMERCIO\\ DE\\ VIDROS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MEGA\\ VIDROS\\ PEC",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ VIDRAMA\\ VIDROS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ LGE\\ \\-\\ LEAO\\ GESTAO\\ EMPRESARIAL\\ LTDA",
+    "codigo_coi": "005576",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AGROVILLE\\ MAQUI",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ METRONORTE\\ COML\\ \\ VEICULOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SAVARAUTO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TAKAI",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ POWER\\ IMPORTS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BARI\\ VEICULOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BREITKOPF\\ FRANCE\\ VEICULOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DELTA\\ VEICULOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ METRONORTE",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BARI\\ VEICULOS\\ L",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ METRONORTE\\ COML",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ FLORENCA\\ VEICUL",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AUTOPLUS\\ VEICULOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BREITKOPF\\ VEICULOS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AUTOPLUS\\ VEICUL",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TSD\\ LOGISTICA\\ E\\ DISTRIBUIDORA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CDC\\ CARGAS\\ E\\ TRANSPORTES\\ EIREL",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TSD\\ LOGISTICA\\ E",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ ORSEGUPS\\ MONITORAMENTO\\ ELETRON",
+    "codigo_coi": "005061",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CANAVERAL",
+    "codigo_coi": "004995",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CREDITO\\ PIX\\ \\-\\ DD\\ VIDROS\\ PECAS\\ E\\ SERVICOS\\ AUTOMOT",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ GT\\ LUB\\ VENDAS\\ E",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SMT\\ SERVICOS\\ E\\ A\\ A\\ LTDA\\ M",
+    "codigo_coi": "004642",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ DD\\ VIDROS\\ PECAS\\ E\\ SERVICOS\\ AUTOMOTI",
+    "codigo_coi": "003255",
+    "descricao_coi": "NUMERARIOS RECEBIDO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "CREDITO\\ TED\\ \\-\\ MAXPAR\\ SERVICOS\\ AUTOMOTIVOS\\ LTDA",
+    "codigo_coi": "000035",
+    "descricao_coi": "RECEBIMENTO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ FANAVID\\ FABRICA\\ NACIONAL\\ DE\\ VI",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CELESC\\ DISTRIBU",
+    "codigo_coi": "005649",
+    "descricao_coi": "PAG. ENERGIA ELETRICA",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ COMERCIAL\\ MAT\\ DE\\ CONSTR\\ ELETRO",
+    "codigo_coi": "005118",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SEM\\ PARAR\\ INST\\ DE\\ PAGTO\\ LTDA",
+    "codigo_coi": "004944",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "INST\\.\\ BOLETO",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ Raphael\\ Roberto\\ Dos\\ Reis",
+    "codigo_coi": "004855",
+    "descricao_coi": "PAG. PROPAGANDA E PUBLICIDADE",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ ELISANGELA\\ ROLOFF\\ MENDEZ",
+    "codigo_coi": "004944",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ GALAX\\ PAY\\ PAGAM",
+    "codigo_coi": "004650",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ PILKINGTON\\ BRASIL\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ TELEFONICA\\ BRASIL\\ S\\ A",
+    "codigo_coi": "005071",
+    "descricao_coi": "PAG.",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ PILKINGTON\\ BRAS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BANCO\\ VOLKSWAGE",
+    "codigo_coi": "005347",
+    "descricao_coi": "PAG. AQUISIÇÃO",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TRANSPORTE\\ E\\ LOGISTICA\\ ARCANJO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "auto"
+  },
+  {
+    "padrao": "VENDA CIELO|CRED\\.COBR",
+    "codigo_coi": "003174",
+    "descricao_coi": "RECEBIMENTO ADMINISTRADORAS",
+    "tipo": "C"
+  },
+  {
+    "padrao": "IOF S/ DESC\\.TIT|LIQ\\.COB|TARIFA|TAXA",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "D"
+  },
+  {
+    "padrao": "RENDA PGTO ANTECIPADO|RENDIMENTO",
+    "codigo_coi": "003451",
+    "descricao_coi": "RENDIMENTO APLICACOES",
+    "tipo": "C"
+  },
+  {
+    "padrao": "PIX TRANSF PAGADOR|CREDITO PIX - PONTUAL",
+    "codigo_coi": "002917",
+    "descricao_coi": "TRANSFERENCIA P/",
+    "tipo": "C"
+  },
+  {
+    "padrao": "PGTO\\. DESC\\. TITULO",
+    "codigo_coi": "003069",
+    "descricao_coi": "DESCONTO ANTECIPADO ADMINISTRADORA",
+    "tipo": "D"
+  },
+  {
+    "padrao": "CR\\.DESC\\.TIT\\.PAG\\.MAIOR",
+    "codigo_coi": "000061",
+    "descricao_coi": "JUROS RECEBIDOS",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ SANDRO\\ OSMAR\\ DA\\ VEIGA\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DE\\ MARCO\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CAMBORIU\\ DISTRIBUICAO\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ JAHU\\ BORRACHAS\\ E\\ AUTO\\ PECAS\\ LT",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CTBA\\ DISTRIBUICAO\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ VETROEX\\ INDUSTRIA\\ E\\ COM\\ VIDROS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AUTOMIX\\ AUTOMOTIVE\\ GLASS\\ PECAS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ O\\ V\\ D\\ IMPORTADORA\\ E\\ DISTRIBUID",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ WH\\ COMERCIO\\ EXTERIOR\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ VIA\\ COMERCIAL\\ E\\ LTDA\\ ME",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DISK\\ BOR\\ COM\\ DE\\ BORRACHAS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AMANDA\\ WANZUITA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TRANSBUS\\ COM\\ DE\\ PECAS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AUTOTRAVI\\ BORRACHAS\\ E\\ PLASTICO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CENTERPARTS\\ DIS\\ AUTO\\ PAR\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TOGNI\\ AUTO\\ PECAS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ NIX\\ COM\\ DE\\ AUTOMOVEIS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MASTIFLEX\\ \\-\\ INDUSTRIA\\ DE\\ SELAN",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DIMAS\\ GWM\\ COM\\ AUTO\\ IMP\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ MULTA\\ DE\\ TRANSITO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DM\\ DISTRIBUIDORA\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ LUANA\\ DUWE\\ DOS\\ SANTOS\\ VIEIRA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ JACIR\\ DA\\ COSTA\\ VIANA\\ FILHO\\ ME",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ AUTOMIX\\ AUTOMOT",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ CELESC\\ DISTRIBUICAO\\ SA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DRTIC",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CADO\\ MALHAS\\ CONF\\ ESTAMPARIA\\ LT",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CADO\\ ESTAMPARIA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ PONTUAL\\ AUTO\\ V\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TARGET\\ NEGOCIOS\\ DE\\ INFORMACOES",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "CREDITO\\ TED\\ \\-\\ PONTUAL\\ AUTO\\ VIDROS\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ ZOOP\\ TECNOLOGIA\\ E\\ MEIOS\\ D",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ RESCISAO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TEKMARK\\ TECNOLOGIA\\ EM\\ MARCACAO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ WH\\ COMERCIO\\ EXT",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ TOGNI\\ AUTO\\ PECA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ JAHU\\ BORRACHAS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ NIX\\ COM\\ DE\\ AUTO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DM\\ DISTRIBUIDOR",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BUGGY\\ VEST\\ UNIF",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ HAI\\ AUTOMOVEIS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CUNHADOS\\ TRUCK",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ BULDOGUE\\ AUTO\\ C",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ DESTACO\\ PAINEIS",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ JACIR\\ DA\\ COSTA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ NUCLEO\\ SOLUCOES",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CTBA\\ DISTRIBUIC",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ CASA\\ DAS\\ CHAVES",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ GISELE\\ DAMBROS\\ LOURENCO",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "CREDITO\\ PIX\\ \\-\\ CARGLASS\\ AUTOMOTIVA\\ LTDA",
+    "codigo_coi": "000043",
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEB\\ ADIANTAMENTO",
+    "codigo_coi": "000094",
+    "descricao_coi": "ADIANTAMENTO A FORNECEDORES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "IOF\\ S/\\ DESC\\.TIT",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "LIQ\\.COB\\.INTER",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "LIQ\\.COB\\.\\ REG\\.",
+    "codigo_coi": "003281",
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "RENDA\\ PGTO\\ ANTECIPADO",
+    "codigo_coi": "003451",
+    "descricao_coi": "RENDIMENTO APLICACOES",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DB\\.\\ COTAS",
+    "codigo_coi": "004510",
+    "descricao_coi": "DB.",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DB\\.APLIC\\.PROGRAMADA",
+    "codigo_coi": "004596",
+    "descricao_coi": "POUPANÇA PROGRAMADA",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ POSTO\\ CIDADE\\ DO\\ PORTO",
+    "codigo_coi": "005126",
+    "descricao_coi": "PAG.",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "PG\\.P/INTERNET\\ \\-\\ ALLIANZ\\ SEGUROS\\ SA",
+    "codigo_coi": "005177",
+    "descricao_coi": "PAG.",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "JUROS\\ LIM\\.CRD",
+    "codigo_coi": "005207",
+    "descricao_coi": "JUROS BANCÁRIOS",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ SERVICO\\ MUNICIPAL\\ DE\\ AGUA",
+    "codigo_coi": "005622",
+    "descricao_coi": "PAG.",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "ESTORNO\\ PIX\\ COBRANCA",
+    "codigo_coi": "005721",
+    "descricao_coi": "ESTORNO BANCARIO",
+    "tipo": "manual"
+  },
+  {
+    "padrao": "DEBITO\\ PIX\\ \\-\\ LARISSA\\ DAMBROS",
+    "codigo_coi": "005754",
+    "descricao_coi": "PAGAMENTOS LARISSA",
+    "tipo": "manual"
+  }
+]

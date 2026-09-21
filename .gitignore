@@ -98,3 +98,8 @@ logs/
 *.p12
 *.pfx
 secrets/
+
+# ---------------------------------------------------------------------------
+# Relatórios e tabelas geradas (COI Tools)
+# ---------------------------------------------------------------------------
+local-worker-rpa/src/coi_tools/relatorios_gerados/

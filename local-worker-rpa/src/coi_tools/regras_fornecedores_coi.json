@@ -1,0 +1,1653 @@
+{
+  "003921": {
+    "descricao_coi": "(+) CREDITO DEV. COMPRA",
+    "palavras_chave": [
+      "DEV",
+      "COMPRA",
+      "CREDITO"
+    ]
+  },
+  "000159": {
+    "descricao_coi": "(-) CREDITO DE FORNECEDORES",
+    "palavras_chave": [
+      "FORNECEDORES",
+      "CREDITO"
+    ]
+  },
+  "000167": {
+    "descricao_coi": "(-) CREDITO DEV. COMPRA",
+    "palavras_chave": [
+      "DEV",
+      "COMPRA",
+      "CREDITO"
+    ]
+  },
+  "005827": {
+    "descricao_coi": "235",
+    "palavras_chave": []
+  },
+  "000094": {
+    "descricao_coi": "ADIANTAMENTO A FORNECEDORES",
+    "palavras_chave": [
+      "FORNECEDORES",
+      "ADIANTAMENTO"
+    ]
+  },
+  "000132": {
+    "descricao_coi": "ADIANTAMENTO DE CLIENTES",
+    "palavras_chave": [
+      "CLIENTES",
+      "ADIANTAMENTO"
+    ]
+  },
+  "000116": {
+    "descricao_coi": "ADIANTAMENTO SALARIAL",
+    "palavras_chave": [
+      "SALARIAL",
+      "ADIANTAMENTO"
+    ]
+  },
+  "002992": {
+    "descricao_coi": "AJUSTE DE CHEQUES DEVOLVIDOS",
+    "palavras_chave": [
+      "AJUSTE",
+      "CHEQUES",
+      "DEVOLVIDOS"
+    ]
+  },
+  "004545": {
+    "descricao_coi": "AJUSTE INFINITY - SOMA CONTA",
+    "palavras_chave": [
+      "AJUSTE",
+      "INFINITY",
+      "SOMA",
+      "CONTA"
+    ]
+  },
+  "004553": {
+    "descricao_coi": "AJUSTE INFINITY - SUBTRAI DA CONTA",
+    "palavras_chave": [
+      "AJUSTE",
+      "INFINITY",
+      "SUBTRAI",
+      "CONTA"
+    ]
+  },
+  "003816": {
+    "descricao_coi": "BAIXA CHEQUE ESPECIAL",
+    "palavras_chave": [
+      "BAIXA",
+      "ESPECIAL",
+      "CHEQUE"
+    ]
+  },
+  "005975": {
+    "descricao_coi": "BLOQUEIO JUDICIAL",
+    "palavras_chave": [
+      "BLOQUEIO",
+      "JUDICIAL"
+    ]
+  },
+  "003751": {
+    "descricao_coi": "CAPITAL INTEGRALIZADO",
+    "palavras_chave": [
+      "INTEGRALIZADO",
+      "CAPITAL"
+    ]
+  },
+  "002968": {
+    "descricao_coi": "COMPENSACAO DE CHEQUES RECEBIDOS",
+    "palavras_chave": [
+      "COMPENSACAO",
+      "CHEQUES",
+      "RECEBIDOS"
+    ]
+  },
+  "003001": {
+    "descricao_coi": "CONVERSAO",
+    "palavras_chave": [
+      "CONVERSAO"
+    ]
+  },
+  "003999": {
+    "descricao_coi": "CREDITO DEVOLUÇÃO FORNECEDOR",
+    "palavras_chave": [
+      "DEVOLUCAO",
+      "FORNECEDOR",
+      "CREDITO"
+    ]
+  },
+  "004510": {
+    "descricao_coi": "DB. COTAS",
+    "palavras_chave": [
+      "COTAS"
+    ]
+  },
+  "004111": {
+    "descricao_coi": "DEBITO BB 11466-9",
+    "palavras_chave": [
+      "DEBITO"
+    ]
+  },
+  "004030": {
+    "descricao_coi": "DEBITO BB 46706-5",
+    "palavras_chave": [
+      "DEBITO"
+    ]
+  },
+  "004057": {
+    "descricao_coi": "DEBITO BB 61387-8",
+    "palavras_chave": [
+      "DEBITO"
+    ]
+  },
+  "004952": {
+    "descricao_coi": "DEBITO BB 62570-1",
+    "palavras_chave": [
+      "DEBITO"
+    ]
+  },
+  "004065": {
+    "descricao_coi": "DEBITO BB 63279-1",
+    "palavras_chave": [
+      "DEBITO"
+    ]
+  },
+  "004154": {
+    "descricao_coi": "DEBITO BRADESCO 023046-4",
+    "palavras_chave": [
+      "DEBITO",
+      "BRADESCO"
+    ]
+  },
+  "004431": {
+    "descricao_coi": "DEBITO BRADESCO 0607546-0",
+    "palavras_chave": [
+      "DEBITO",
+      "BRADESCO"
+    ]
+  },
+  "004413": {
+    "descricao_coi": "DEBITO BRADESCO 0661961-4",
+    "palavras_chave": [
+      "DEBITO",
+      "BRADESCO"
+    ]
+  },
+  "005142": {
+    "descricao_coi": "DEBITO BRADESCO 253051-1",
+    "palavras_chave": [
+      "DEBITO",
+      "BRADESCO"
+    ]
+  },
+  "004049": {
+    "descricao_coi": "DEBITO BRADESCO 77461-8",
+    "palavras_chave": [
+      "DEBITO",
+      "BRADESCO"
+    ]
+  },
+  "005894": {
+    "descricao_coi": "DEBITO INFINITE PAY-11 23633954-4",
+    "palavras_chave": [
+      "DEBITO",
+      "INFINITE",
+      "PAY"
+    ]
+  },
+  "005886": {
+    "descricao_coi": "DEBITO INFINTE PAY 23633954-54",
+    "palavras_chave": [
+      "DEBITO",
+      "PAY",
+      "INFINTE"
+    ]
+  },
+  "003956": {
+    "descricao_coi": "DEBITO ITAU 63771-7",
+    "palavras_chave": [
+      "DEBITO",
+      "ITAU"
+    ]
+  },
+  "004979": {
+    "descricao_coi": "DEBITO VIACREDI 1171331-3",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "004235": {
+    "descricao_coi": "DEBITO VIACREDI-01 1171347-0",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "004251": {
+    "descricao_coi": "DEBITO VIACREDI-02 1175416-8",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "004261": {
+    "descricao_coi": "DEBITO VIACREDI-03 1175430-3",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "004278": {
+    "descricao_coi": "DEBITO VIACREDI-04 1175431-1",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "004286": {
+    "descricao_coi": "DEBITO VIACREDI-05 1175432-0",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "005045": {
+    "descricao_coi": "DEBITO VIACREDI-08 1988375-7",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "005495": {
+    "descricao_coi": "DEBITO VIACREDI-10 2109095-5",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "005819": {
+    "descricao_coi": "DEBITO VIACREDI-11 2156255-5",
+    "palavras_chave": [
+      "DEBITO",
+      "VIACREDI"
+    ]
+  },
+  "004121": {
+    "descricao_coi": "DEPOSITO BB 11466-9",
+    "palavras_chave": [
+      "DEPOSITO"
+    ]
+  },
+  "004073": {
+    "descricao_coi": "DEPOSITO BB 46706-5",
+    "palavras_chave": [
+      "DEPOSITO"
+    ]
+  },
+  "004091": {
+    "descricao_coi": "DEPOSITO BB 61387-8",
+    "palavras_chave": [
+      "DEPOSITO"
+    ]
+  },
+  "004960": {
+    "descricao_coi": "DEPOSITO BB 62570-1",
+    "palavras_chave": [
+      "DEPOSITO"
+    ]
+  },
+  "004103": {
+    "descricao_coi": "DEPOSITO BB 63279-1",
+    "palavras_chave": [
+      "DEPOSITO"
+    ]
+  },
+  "004162": {
+    "descricao_coi": "DEPOSITO BRADESCO 023046-4",
+    "palavras_chave": [
+      "BRADESCO",
+      "DEPOSITO"
+    ]
+  },
+  "004421": {
+    "descricao_coi": "DEPOSITO BRADESCO 0661961-4",
+    "palavras_chave": [
+      "BRADESCO",
+      "DEPOSITO"
+    ]
+  },
+  "004081": {
+    "descricao_coi": "DEPOSITO BRADESCO 77461-8",
+    "palavras_chave": [
+      "BRADESCO",
+      "DEPOSITO"
+    ]
+  },
+  "003697": {
+    "descricao_coi": "DEPOSITO ITAU 63771-7",
+    "palavras_chave": [
+      "ITAU",
+      "DEPOSITO"
+    ]
+  },
+  "004987": {
+    "descricao_coi": "DEPOSITO VIACREDI-01 1171331-3",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "004243": {
+    "descricao_coi": "DEPOSITO VIACREDI-01 1171347-0",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "004294": {
+    "descricao_coi": "DEPOSITO VIACREDI-02 1175416-8",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "004308": {
+    "descricao_coi": "DEPOSITO VIACREDI-03 1175430-3",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "004316": {
+    "descricao_coi": "DEPOSITO VIACREDI-04 1175431-1",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "004324": {
+    "descricao_coi": "DEPOSITO VIACREDI-05 1175432-0",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "004456": {
+    "descricao_coi": "DEPOSITO VIACREDI-07 1918248-1",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "005037": {
+    "descricao_coi": "DEPOSITO VIACREDI-08 1988375-7",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "005509": {
+    "descricao_coi": "DEPOSITO VIACREDI-10 2109095-5",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "005789": {
+    "descricao_coi": "DEPOSITO VIACREDI-11 21566255-5",
+    "palavras_chave": [
+      "VIACREDI",
+      "DEPOSITO"
+    ]
+  },
+  "005991": {
+    "descricao_coi": "DESBLOQUEIO JUDICIAL",
+    "palavras_chave": [
+      "DESBLOQUEIO",
+      "JUDICIAL"
+    ]
+  },
+  "003069": {
+    "descricao_coi": "DESCONTO ANTECIPADO ADMINISTRADORA",
+    "palavras_chave": [
+      "ADMINISTRADORA",
+      "ANTECIPADO",
+      "DESCONTO"
+    ]
+  },
+  "004731": {
+    "descricao_coi": "DESCONTO DE DUPLICATAS",
+    "palavras_chave": [
+      "DUPLICATAS",
+      "DESCONTO"
+    ]
+  },
+  "000086": {
+    "descricao_coi": "DESCONTO OBTIDO",
+    "palavras_chave": [
+      "OBTIDO",
+      "DESCONTO"
+    ]
+  },
+  "000078": {
+    "descricao_coi": "DESCONTOS CONCEDIDO",
+    "palavras_chave": [
+      "CONCEDIDO",
+      "DESCONTOS"
+    ]
+  },
+  "002976": {
+    "descricao_coi": "DEVOLUCAO DE CHEQUES RECEBIDOS",
+    "palavras_chave": [
+      "DEVOLUCAO",
+      "RECEBIDOS",
+      "CHEQUES"
+    ]
+  },
+  "004758": {
+    "descricao_coi": "DEVOLUÇÃO DE RECEBIMENTO",
+    "palavras_chave": [
+      "DEVOLUCAO"
+    ]
+  },
+  "004529": {
+    "descricao_coi": "EMPRÉSTIMO DE TERCEIROS",
+    "palavras_chave": [
+      "EMPRESTIMO",
+      "TERCEIROS"
+    ]
+  },
+  "005088": {
+    "descricao_coi": "EMPRÉSTIMO PARA TERCEIROS",
+    "palavras_chave": [
+      "EMPRESTIMO",
+      "TERCEIROS"
+    ]
+  },
+  "005721": {
+    "descricao_coi": "ESTORNO BANCARIO",
+    "palavras_chave": [
+      "BANCARIO",
+      "ESTORNO"
+    ]
+  },
+  "005770": {
+    "descricao_coi": "FRETE INTERMEDIADOR",
+    "palavras_chave": [
+      "INTERMEDIADOR",
+      "FRETE"
+    ]
+  },
+  "005479": {
+    "descricao_coi": "INCOBRÁVEIS DATA CORTE DEZ2023",
+    "palavras_chave": [
+      "CORTE",
+      "DATA",
+      "DEZ",
+      "INCOBRAVEIS"
+    ]
+  },
+  "005207": {
+    "descricao_coi": "JUROS BANCÁRIOS",
+    "palavras_chave": [
+      "BANCARIOS",
+      "JUROS"
+    ]
+  },
+  "000051": {
+    "descricao_coi": "JUROS PAGOS",
+    "palavras_chave": [
+      "JUROS",
+      "PAGOS"
+    ]
+  },
+  "003948": {
+    "descricao_coi": "JUROS PASSIVOS",
+    "palavras_chave": [
+      "JUROS",
+      "PASSIVOS"
+    ]
+  },
+  "000061": {
+    "descricao_coi": "JUROS RECEBIDOS",
+    "palavras_chave": [
+      "JUROS",
+      "RECEBIDOS"
+    ]
+  },
+  "003832": {
+    "descricao_coi": "JUROS SOBRE EMPRESTIMOS",
+    "palavras_chave": [
+      "JUROS",
+      "EMPRESTIMOS",
+      "SOBRE"
+    ]
+  },
+  "003212": {
+    "descricao_coi": "MULTAS PAGAS",
+    "palavras_chave": [
+      "MULTAS",
+      "PAGAS"
+    ]
+  },
+  "003204": {
+    "descricao_coi": "MULTAS RECEBIDAS",
+    "palavras_chave": [
+      "MULTAS",
+      "RECEBIDAS"
+    ]
+  },
+  "003255": {
+    "descricao_coi": "NUMERARIOS RECEBIDO DE MATRIZ FILI",
+    "palavras_chave": [
+      "RECEBIDO",
+      "MATRIZ",
+      "NUMERARIOS",
+      "FILI"
+    ]
+  },
+  "005347": {
+    "descricao_coi": "PAG. AQUISIÇÃO DE IMOBILIZADO",
+    "palavras_chave": [
+      "IMOBILIZADO",
+      "AQUISICAO"
+    ]
+  },
+  "005428": {
+    "descricao_coi": "PAG. BK INST. PAG - PONTUAL MATRIZ",
+    "palavras_chave": [
+      "INST",
+      "MATRIZ",
+      "PONTUAL"
+    ]
+  },
+  "005738": {
+    "descricao_coi": "PAG. CAIXA GERAL",
+    "palavras_chave": [
+      "GERAL",
+      "CAIXA"
+    ]
+  },
+  "004715": {
+    "descricao_coi": "PAG. DE ALUGUEL",
+    "palavras_chave": [
+      "ALUGUEL"
+    ]
+  },
+  "004677": {
+    "descricao_coi": "PAG. DE FGTS A RECOLHER",
+    "palavras_chave": [
+      "FGTS",
+      "RECOLHER"
+    ]
+  },
+  "004685": {
+    "descricao_coi": "PAG. DE HONORÁRIOS CONTÁBEIS",
+    "palavras_chave": [
+      "HONORARIOS",
+      "CONTABEIS",
+      "CONTABILIDADE"
+    ]
+  },
+  "004669": {
+    "descricao_coi": "PAG. DE INSS A RECOLHER",
+    "palavras_chave": [
+      "INSS",
+      "RECOLHER"
+    ]
+  },
+  "004707": {
+    "descricao_coi": "PAG. DE MANUTENÇÃO DE INFORMÁTICA",
+    "palavras_chave": [
+      "MANUTENCAO",
+      "INFORMATICA"
+    ]
+  },
+  "004650": {
+    "descricao_coi": "PAG. DE MENSALIDADE DE SOFTWARES",
+    "palavras_chave": [
+      "SOFTWARE",
+      "SISTEMA",
+      "MENSALIDADE"
+    ]
+  },
+  "005762": {
+    "descricao_coi": "PAG. DE MULTAS",
+    "palavras_chave": [
+      "MULTAS"
+    ]
+  },
+  "004911": {
+    "descricao_coi": "PAG. DECIMO TERCEIRO",
+    "palavras_chave": [
+      "DECIMO",
+      "TERCEIRO"
+    ]
+  },
+  "005071": {
+    "descricao_coi": "PAG. DESP. COM INTERNET/ TELEFONE",
+    "palavras_chave": [
+      "TELEFONE",
+      "INTERNET",
+      "DESP"
+    ]
+  },
+  "005118": {
+    "descricao_coi": "PAG. DESPESA C/ MANUT. PREDIAL",
+    "palavras_chave": [
+      "ENERGIA",
+      "CELESC",
+      "LUZ",
+      "ELETRICA",
+      "MANUTENCAO PREDIAL"
+    ]
+  },
+  "004936": {
+    "descricao_coi": "PAG. DESPESA MATERIAL LIMPEZA",
+    "palavras_chave": [
+      "MATERIAL",
+      "LIMPEZA"
+    ]
+  },
+  "005576": {
+    "descricao_coi": "PAG. DESPESAS C/ ADVOGADOS",
+    "palavras_chave": [
+      "ADVOGADOS"
+    ]
+  },
+  "005622": {
+    "descricao_coi": "PAG. DESPESAS C/ AGUA",
+    "palavras_chave": [
+      "AGUA",
+      "SEMASA",
+      "SANEAMENTO"
+    ]
+  },
+  "005967": {
+    "descricao_coi": "PAG. DESPESAS C/ AUX TRANSPORTE",
+    "palavras_chave": [
+      "AUX",
+      "TRANSPORTE"
+    ]
+  },
+  "005126": {
+    "descricao_coi": "PAG. DESPESAS C/ COMBUSTIVEIS",
+    "palavras_chave": [
+      "COMBUSTIVEL",
+      "POSTO",
+      "GASOLINA",
+      "DIESEL",
+      "ETANOL"
+    ]
+  },
+  "005185": {
+    "descricao_coi": "PAG. DESPESAS C/ EMBALAGENS",
+    "palavras_chave": [
+      "EMBALAGENS"
+    ]
+  },
+  "005381": {
+    "descricao_coi": "PAG. DESPESAS C/ HOSPEDAGEM",
+    "palavras_chave": [
+      "HOSPEDAGEM"
+    ]
+  },
+  "005231": {
+    "descricao_coi": "PAG. DESPESAS C/ IPVA",
+    "palavras_chave": [
+      "IPVA"
+    ]
+  },
+  "005355": {
+    "descricao_coi": "PAG. DESPESAS C/ MANUT. E REPAROS",
+    "palavras_chave": [
+      "MANUT",
+      "REPAROS"
+    ]
+  },
+  "005241": {
+    "descricao_coi": "PAG. DESPESAS C/ MATERIAL OFICINA",
+    "palavras_chave": [
+      "OFICINA",
+      "MATERIAL"
+    ]
+  },
+  "005177": {
+    "descricao_coi": "PAG. DESPESAS C/ SEGUROS",
+    "palavras_chave": [
+      "SEGUROS"
+    ]
+  },
+  "005134": {
+    "descricao_coi": "PAG. DESPESAS C/ TAXAS MUNICIPAIS",
+    "palavras_chave": [
+      "ISS ",
+      "PREFEITURA",
+      "MUNICIPIO",
+      "IMPOSTO MUNICIPAL"
+    ]
+  },
+  "005096": {
+    "descricao_coi": "PAG. DESPESAS C/ TELEFONE",
+    "palavras_chave": [
+      "TELEFONE"
+    ]
+  },
+  "004881": {
+    "descricao_coi": "PAG. DESPESAS COM ALIMENTAÇÃO",
+    "palavras_chave": [
+      "ALIMENTACAO",
+      "REFEICAO",
+      "MERCADO"
+    ]
+  },
+  "004863": {
+    "descricao_coi": "PAG. DESPESAS COM FRETE",
+    "palavras_chave": [
+      "FRETE",
+      "TRANSPORTES",
+      "LOGISTICA"
+    ]
+  },
+  "005835": {
+    "descricao_coi": "PAG. DESPESAS COM IPTU",
+    "palavras_chave": [
+      "IPTU"
+    ]
+  },
+  "005924": {
+    "descricao_coi": "PAG. DESPESAS COM PEDÁGIO",
+    "palavras_chave": [
+      "PEDAGIO",
+      "CONCESSIONARIA"
+    ]
+  },
+  "005061": {
+    "descricao_coi": "PAG. DESPESAS COM SEGURANÇA",
+    "palavras_chave": [
+      "SEGURANCA"
+    ]
+  },
+  "004944": {
+    "descricao_coi": "PAG. DESPESAS COM SERVIÇOS",
+    "palavras_chave": [
+      "SERVICOS",
+      "MANUTENCAO"
+    ]
+  },
+  "005101": {
+    "descricao_coi": "PAG. DESPESAS DE COPA E COZINHA",
+    "palavras_chave": [
+      "COPA",
+      "COZINHA"
+    ]
+  },
+  "005193": {
+    "descricao_coi": "PAG. DESPESAS DIVERSAS",
+    "palavras_chave": [
+      "DIVERSAS"
+    ]
+  },
+  "004871": {
+    "descricao_coi": "PAG. DESPESAS MATERIAL EXPEDIENTE",
+    "palavras_chave": [
+      "EXPEDIENTE",
+      "MATERIAL"
+    ]
+  },
+  "004642": {
+    "descricao_coi": "PAG. DESPESAS MEDICINA DO TRABALHO",
+    "palavras_chave": [
+      "MEDICINA",
+      "TRABALHO"
+    ]
+  },
+  "005444": {
+    "descricao_coi": "PAG. DESPESAS RESCISAO DE CONTRATO",
+    "palavras_chave": [
+      "CONTRATO",
+      "RESCISAO"
+    ]
+  },
+  "005401": {
+    "descricao_coi": "PAG. DESPESAS SEM DOCUMENTO FISCAL",
+    "palavras_chave": [
+      "SEM",
+      "FISCAL",
+      "DOCUMENTO"
+    ]
+  },
+  "004995": {
+    "descricao_coi": "PAG. DESPESAS USO E CONSUMO",
+    "palavras_chave": [
+      "CONSUMO",
+      "USO"
+    ]
+  },
+  "005940": {
+    "descricao_coi": "PAG. EMPRESTIMO BANCO BRASIL BB",
+    "palavras_chave": [
+      "EMPRESTIMO",
+      "BRASIL",
+      "BANCO"
+    ]
+  },
+  "005592": {
+    "descricao_coi": "PAG. EMPRESTIMOS VIACREDI",
+    "palavras_chave": [
+      "EMPRESTIMOS",
+      "VIACREDI"
+    ]
+  },
+  "005649": {
+    "descricao_coi": "PAG. ENERGIA ELETRICA",
+    "palavras_chave": [
+      "ELETRICA",
+      "ENERGIA"
+    ]
+  },
+  "004847": {
+    "descricao_coi": "PAG. FUNDO DE COMERCIO",
+    "palavras_chave": [
+      "FUNDO DE COMERCIO",
+      "ALUGUEL"
+    ]
+  },
+  "004901": {
+    "descricao_coi": "PAG. IMPOSTOS E TAXAS DIVERSAS",
+    "palavras_chave": [
+      "IMPOSTOS",
+      "TAXAS",
+      "DIVERSAS"
+    ]
+  },
+  "005630": {
+    "descricao_coi": "PAG. ISS",
+    "palavras_chave": [
+      "ISS"
+    ]
+  },
+  "004820": {
+    "descricao_coi": "PAG. MANUT. VEICULOS PRODUTO",
+    "palavras_chave": [
+      "MANUT",
+      "PRODUTO",
+      "VEICULOS"
+    ]
+  },
+  "004839": {
+    "descricao_coi": "PAG. MANUT. VEICULOS SERVIÇOS",
+    "palavras_chave": [
+      "MANUT",
+      "VEICULOS",
+      "SERVICOS"
+    ]
+  },
+  "004855": {
+    "descricao_coi": "PAG. PROPAGANDA E PUBLICIDADE",
+    "palavras_chave": [
+      "PUBLICIDADE",
+      "PROPAGANDA"
+    ]
+  },
+  "004601": {
+    "descricao_coi": "PAG. SIMPLES NACIONAL",
+    "palavras_chave": [
+      "NACIONAL",
+      "SIMPLES"
+    ]
+  },
+  "005657": {
+    "descricao_coi": "PAG. TAXAS MUNICIPAIS",
+    "palavras_chave": [
+      "MUNICIPAIS",
+      "TAXAS"
+    ]
+  },
+  "004571": {
+    "descricao_coi": "PAGAM DE EMPRÉSTIMO DE TERCEIROS",
+    "palavras_chave": [
+      "EMPRESTIMO",
+      "TERCEIROS",
+      "PAGAM"
+    ]
+  },
+  "005606": {
+    "descricao_coi": "PAGAM. LARANJINHA ITAU 01-MATRIZ",
+    "palavras_chave": [
+      "MATRIZ",
+      "PAGAM",
+      "ITAU",
+      "LARANJINHA"
+    ]
+  },
+  "005282": {
+    "descricao_coi": "PAGAM. INFINITEPAY 01 - MATRIZ",
+    "palavras_chave": [
+      "INFINITEPAY",
+      "MATRIZ",
+      "PAGAM"
+    ]
+  },
+  "005290": {
+    "descricao_coi": "PAGAM. INFINITEPAY 02 - FL.JLLE 1",
+    "palavras_chave": [
+      "JLLE",
+      "INFINITEPAY",
+      "PAGAM"
+    ]
+  },
+  "005320": {
+    "descricao_coi": "PAGAM. INFINITEPAY 05 - FL.JLLE 2",
+    "palavras_chave": [
+      "JLLE",
+      "INFINITEPAY",
+      "PAGAM"
+    ]
+  },
+  "004561": {
+    "descricao_coi": "PAGAM. INFINITEPAY 07 - DD VIDROS",
+    "palavras_chave": [
+      "INFINITEPAY",
+      "PAGAM",
+      "VIDROS"
+    ]
+  },
+  "005312": {
+    "descricao_coi": "PAGAM. INFINITEPAY 08 - J2 VIDROS",
+    "palavras_chave": [
+      "INFINITEPAY",
+      "PAGAM",
+      "VIDROS"
+    ]
+  },
+  "005551": {
+    "descricao_coi": "PAGAM. INFINITEPAY 10 - JBC",
+    "palavras_chave": [
+      "JBC",
+      "INFINITEPAY",
+      "PAGAM"
+    ]
+  },
+  "003190": {
+    "descricao_coi": "PAGAMENTO COMISSOES",
+    "palavras_chave": [
+      "COMISSOES"
+    ]
+  },
+  "000027": {
+    "descricao_coi": "PAGAMENTO DE CAIXA COFRE",
+    "palavras_chave": [
+      "COFRE",
+      "CAIXA"
+    ]
+  },
+  "002933": {
+    "descricao_coi": "PAGAMENTO DE CAIXA RETAGUARDA",
+    "palavras_chave": [
+      "RETAGUARDA",
+      "CAIXA"
+    ]
+  },
+  "002925": {
+    "descricao_coi": "PAGAMENTO DE CAIXA VENDAS",
+    "palavras_chave": [
+      "VENDAS",
+      "CAIXA"
+    ]
+  },
+  "003581": {
+    "descricao_coi": "PAGAMENTO DE FERIAS",
+    "palavras_chave": [
+      "FERIAS"
+    ]
+  },
+  "004618": {
+    "descricao_coi": "PAGAMENTO DE SALÁRIOS",
+    "palavras_chave": [
+      "SALARIOS"
+    ]
+  },
+  "003182": {
+    "descricao_coi": "PAGAMENTO DEVOLUCAO DE VENDAS",
+    "palavras_chave": [
+      "DEVOLUCAO",
+      "VENDAS"
+    ]
+  },
+  "003786": {
+    "descricao_coi": "PAGAMENTO EMPRÉSTIMO 18.628",
+    "palavras_chave": [
+      "EMPRESTIMO"
+    ]
+  },
+  "003794": {
+    "descricao_coi": "PAGAMENTO EMPRÉSTIMO 18.629",
+    "palavras_chave": [
+      "EMPRESTIMO"
+    ]
+  },
+  "005568": {
+    "descricao_coi": "PAGAMENTO EMPRÉSTIMO ITAÚ",
+    "palavras_chave": [
+      "EMPRESTIMO",
+      "ITAU"
+    ]
+  },
+  "000043": {
+    "descricao_coi": "PAGAMENTO FORNECEDORES",
+    "palavras_chave": [
+      "FORNECEDORES"
+    ]
+  },
+  "005932": {
+    "descricao_coi": "PAGAMENTO ICMS",
+    "palavras_chave": [
+      "ICMS"
+    ]
+  },
+  "003743": {
+    "descricao_coi": "PAGAMENTO ICMS FRONTEIRAS",
+    "palavras_chave": [
+      "ICMS",
+      "FRONTEIRAS"
+    ]
+  },
+  "004502": {
+    "descricao_coi": "PAGAMENTO PELO MERCADO PAGO/LIVRE",
+    "palavras_chave": [
+      "PAGO",
+      "MERCADO",
+      "LIVRE",
+      "PELO"
+    ]
+  },
+  "005533": {
+    "descricao_coi": "PAGAMENTO VIACREDI 2109095-5",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "003131": {
+    "descricao_coi": "PAGAMENTOS DESPESAS (CAIXA)",
+    "palavras_chave": [
+      "PAGAMENTOS",
+      "CAIXA"
+    ]
+  },
+  "003018": {
+    "descricao_coi": "PAGAMENTOS DESPESAS (NOTAS)",
+    "palavras_chave": [
+      "NOTAS",
+      "PAGAMENTOS"
+    ]
+  },
+  "005754": {
+    "descricao_coi": "PAGAMENTOS LARISSA",
+    "palavras_chave": [
+      "PAGAMENTOS",
+      "LARISSA"
+    ]
+  },
+  "004928": {
+    "descricao_coi": "PAGAMENTOS ONEIDE",
+    "palavras_chave": [
+      "PAGAMENTOS",
+      "ONEIDE"
+    ]
+  },
+  "004774": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-01 1171347-0",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "004782": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-02 1175416-8",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "004812": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-03 1175430-3",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "004790": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-04 1175431-1",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "004804": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-05 1175432-0",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "004464": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-07 1918248-1",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "005169": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-08 1988375-7",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "005460": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-09 2079362-6",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "005800": {
+    "descricao_coi": "PAGAMENTOS VIACREDI-11 2156255-5",
+    "palavras_chave": [
+      "VIACREDI",
+      "PAGAMENTOS"
+    ]
+  },
+  "005916": {
+    "descricao_coi": "PENSÃO ALIMENTÍCIA",
+    "palavras_chave": [
+      "PENSAO",
+      "ALIMENTICIA"
+    ]
+  },
+  "005691": {
+    "descricao_coi": "PIX A RECEBER",
+    "palavras_chave": [
+      "PIX",
+      "RECEBER"
+    ]
+  },
+  "004189": {
+    "descricao_coi": "PIX BB 11466-9",
+    "palavras_chave": [
+      "PIX"
+    ]
+  },
+  "004170": {
+    "descricao_coi": "PIX BB 46706-5",
+    "palavras_chave": [
+      "PIX"
+    ]
+  },
+  "004227": {
+    "descricao_coi": "PIX BB 61387-8",
+    "palavras_chave": [
+      "PIX"
+    ]
+  },
+  "004200": {
+    "descricao_coi": "PIX BB 63279-1",
+    "palavras_chave": [
+      "PIX"
+    ]
+  },
+  "004197": {
+    "descricao_coi": "PIX ITAU 63771-7",
+    "palavras_chave": [
+      "PIX",
+      "ITAU"
+    ]
+  },
+  "004340": {
+    "descricao_coi": "PIX VIACREDI-01 1171347-0",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "004359": {
+    "descricao_coi": "PIX VIACREDI-02 1175416-8",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "004391": {
+    "descricao_coi": "PIX VIACREDI-03 1175430-3",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "004405": {
+    "descricao_coi": "PIX VIACREDI-04 1175431-1",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "004383": {
+    "descricao_coi": "PIX VIACREDI-05 1175432-0",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "005517": {
+    "descricao_coi": "PIX VIACREDI-10 2109095-5",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "005843": {
+    "descricao_coi": "PIX VIACREDI-11 2156255-5",
+    "palavras_chave": [
+      "PIX",
+      "VIACREDI"
+    ]
+  },
+  "004596": {
+    "descricao_coi": "POUPANÇA PROGRAMADA",
+    "palavras_chave": [
+      "POUPANCA",
+      "PROGRAMADA"
+    ]
+  },
+  "002984": {
+    "descricao_coi": "REAPRESENTACAO DE CHEQUES DEVOLV.",
+    "palavras_chave": [
+      "REAPRESENTACAO",
+      "DEVOLV",
+      "CHEQUES"
+    ]
+  },
+  "005436": {
+    "descricao_coi": "REC. INDENIZAÇÕES DE TERCEIROS",
+    "palavras_chave": [
+      "TERCEIROS",
+      "REC",
+      "INDENIZACOES"
+    ]
+  },
+  "002951": {
+    "descricao_coi": "RECBTO CHEQUE A VISTA/PRE-DATADO",
+    "palavras_chave": [
+      "RECBTO",
+      "PRE",
+      "DATADO",
+      "VISTA",
+      "CHEQUE"
+    ]
+  },
+  "005411": {
+    "descricao_coi": "RECEB. BK INST. PAG - PONTUAL MAT.",
+    "palavras_chave": [
+      "RECEB",
+      "INST",
+      "MAT",
+      "PONTUAL"
+    ]
+  },
+  "004723": {
+    "descricao_coi": "RECEB. DE DUPLICATA DESCONTADA",
+    "palavras_chave": [
+      "RECEB",
+      "DUPLICATA",
+      "DESCONTADA"
+    ]
+  },
+  "005274": {
+    "descricao_coi": "RECEB. INFINITEPAY 01 - MATRIZ",
+    "palavras_chave": [
+      "RECEB",
+      "INFINITEPAY",
+      "MATRIZ"
+    ]
+  },
+  "005266": {
+    "descricao_coi": "RECEB. INFINITEPAY 02 - FL.JLLE 1",
+    "palavras_chave": [
+      "JLLE",
+      "RECEB",
+      "INFINITEPAY"
+    ]
+  },
+  "005339": {
+    "descricao_coi": "RECEB. INFINITEPAY 05 - FL.JLLE 2",
+    "palavras_chave": [
+      "JLLE",
+      "RECEB",
+      "INFINITEPAY"
+    ]
+  },
+  "004448": {
+    "descricao_coi": "RECEB. INFINITEPAY 07 - DD VIDROS",
+    "palavras_chave": [
+      "RECEB",
+      "INFINITEPAY",
+      "VIDROS"
+    ]
+  },
+  "005223": {
+    "descricao_coi": "RECEB. INFINITEPAY 08 - J2 VIDROS",
+    "palavras_chave": [
+      "RECEB",
+      "INFINITEPAY",
+      "VIDROS"
+    ]
+  },
+  "005541": {
+    "descricao_coi": "RECEB. INFINITEPAY 10 - JBC",
+    "palavras_chave": [
+      "RECEB",
+      "INFINITEPAY",
+      "JBC"
+    ]
+  },
+  "005614": {
+    "descricao_coi": "RECEB. LARANJINHA ITAU 01- MATRIZ",
+    "palavras_chave": [
+      "RECEB",
+      "MATRIZ",
+      "LARANJINHA",
+      "ITAU"
+    ]
+  },
+  "003174": {
+    "descricao_coi": "RECEBIMENTO ADMINISTRADORAS",
+    "palavras_chave": [
+      "ADMINISTRADORAS"
+    ]
+  },
+  "003158": {
+    "descricao_coi": "RECEBIMENTO CAIXA COFRE",
+    "palavras_chave": [
+      "COFRE",
+      "CAIXA"
+    ]
+  },
+  "000019": {
+    "descricao_coi": "RECEBIMENTO CAIXA RETAGUARDA",
+    "palavras_chave": [
+      "RETAGUARDA",
+      "CAIXA"
+    ]
+  },
+  "003141": {
+    "descricao_coi": "RECEBIMENTO CAIXA VENDAS",
+    "palavras_chave": [
+      "VENDAS",
+      "CAIXA"
+    ]
+  },
+  "000035": {
+    "descricao_coi": "RECEBIMENTO DE DUPLICATA",
+    "palavras_chave": [
+      "DUPLICATA"
+    ]
+  },
+  "003166": {
+    "descricao_coi": "RECEBIMENTO EM CARTAO",
+    "palavras_chave": [
+      "CARTAO"
+    ]
+  },
+  "002909": {
+    "descricao_coi": "RECEBIMENTO FRENTE DE CAIXA",
+    "palavras_chave": [
+      "FRENTE",
+      "CAIXA"
+    ]
+  },
+  "005851": {
+    "descricao_coi": "RECEBIMENTO INFINITE PAY-11 23633",
+    "palavras_chave": [
+      "INFINITE",
+      "PAY"
+    ]
+  },
+  "005363": {
+    "descricao_coi": "RECEBIMENTO VIACREDI-04 -1175431-1",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "004480": {
+    "descricao_coi": "RECEBIMENTO VIACREDI-07 1918248-1",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "005150": {
+    "descricao_coi": "RECEBIMENTO VIACREDI-08 1988375-7",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "005452": {
+    "descricao_coi": "RECEBIMENTO VIACREDI-09 2079362-6",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "005525": {
+    "descricao_coi": "RECEBIMENTO VIACREDI-10 2109095-5",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "005797": {
+    "descricao_coi": "RECEBIMENTO VIACREDI-11 2156255-5",
+    "palavras_chave": [
+      "VIACREDI"
+    ]
+  },
+  "004006": {
+    "descricao_coi": "RECEITA DE DESCONTOS OBTIDOS",
+    "palavras_chave": [
+      "OBTIDOS",
+      "DESCONTOS",
+      "RECEITA"
+    ]
+  },
+  "002461": {
+    "descricao_coi": "REEMBOLSO ADTO CLIENTE",
+    "palavras_chave": [
+      "ADTO",
+      "REEMBOLSO",
+      "CLIENTE"
+    ]
+  },
+  "002471": {
+    "descricao_coi": "REEMBOLSO ADTO FORNECEDOR",
+    "palavras_chave": [
+      "ADTO",
+      "FORNECEDOR",
+      "REEMBOLSO"
+    ]
+  },
+  "002526": {
+    "descricao_coi": "REEMBOLSO ADTO SALARIAL",
+    "palavras_chave": [
+      "ADTO",
+      "SALARIAL",
+      "REEMBOLSO"
+    ]
+  },
+  "005398": {
+    "descricao_coi": "REEMBOLSO DE TARIFAS MERC LIVRE",
+    "palavras_chave": [
+      "LIVRE",
+      "MERC",
+      "REEMBOLSO",
+      "TARIFAS"
+    ]
+  },
+  "003451": {
+    "descricao_coi": "RENDIMENTO APLICACOES",
+    "palavras_chave": [
+      "RENDIMENTO",
+      "APLICACOES"
+    ]
+  },
+  "005746": {
+    "descricao_coi": "RESGATE APLICAÇÃO PROGRAMADA",
+    "palavras_chave": [
+      "APLICACAO",
+      "PROGRAMADA",
+      "RESGATE"
+    ]
+  },
+  "005053": {
+    "descricao_coi": "TARIFA DE ENVIOS MERCADO LIVRE",
+    "palavras_chave": [
+      "TARIFA",
+      "ENVIOS",
+      "LIVRE",
+      "MERCADO"
+    ]
+  },
+  "005029": {
+    "descricao_coi": "TARIFA/TAXA DE MERCADO LIVRE",
+    "palavras_chave": [
+      "TAXA",
+      "TARIFA",
+      "MERCADO",
+      "LIVRE"
+    ]
+  },
+  "003281": {
+    "descricao_coi": "TARIFAS BANCARIAS",
+    "palavras_chave": [
+      "BANCARIAS",
+      "TARIFAS"
+    ]
+  },
+  "004741": {
+    "descricao_coi": "TARIFAS DE DESCONTOS DE TITULOS",
+    "palavras_chave": [
+      "TITULOS",
+      "DESCONTOS",
+      "TARIFAS"
+    ]
+  },
+  "003050": {
+    "descricao_coi": "TAXA ADMINISTRADORA",
+    "palavras_chave": [
+      "TAXA",
+      "ADMINISTRADORA"
+    ]
+  },
+  "005908": {
+    "descricao_coi": "TAXA REEMBOLSO",
+    "palavras_chave": [
+      "TAXA",
+      "REEMBOLSO"
+    ]
+  },
+  "005959": {
+    "descricao_coi": "TRANSF. INFINITE P/ VIACRED L11",
+    "palavras_chave": [
+      "INFINITE",
+      "VIACRED",
+      "TRANSF"
+    ]
+  },
+  "004537": {
+    "descricao_coi": "TRANSF. INFINITY P/ VIACREDI - DD",
+    "palavras_chave": [
+      "INFINITY",
+      "VIACREDI",
+      "TRANSF"
+    ]
+  },
+  "005673": {
+    "descricao_coi": "TRANSF. INFINITY P/ VIACREDI - J1",
+    "palavras_chave": [
+      "INFINITY",
+      "VIACREDI",
+      "TRANSF"
+    ]
+  },
+  "005215": {
+    "descricao_coi": "TRANSF. INFINITY P/ VIACREDI - J2",
+    "palavras_chave": [
+      "INFINITY",
+      "VIACREDI",
+      "TRANSF"
+    ]
+  },
+  "005665": {
+    "descricao_coi": "TRANSF. INFINITY P/ VIACREDI - JBC",
+    "palavras_chave": [
+      "JBC",
+      "INFINITY",
+      "VIACREDI",
+      "TRANSF"
+    ]
+  },
+  "005711": {
+    "descricao_coi": "TRANSF. ITAÚ P/ VIACREDI - MATRIZ",
+    "palavras_chave": [
+      "MATRIZ",
+      "VIACREDI",
+      "ITAU",
+      "TRANSF"
+    ]
+  },
+  "005371": {
+    "descricao_coi": "TRANSF. MERC.PAGO P/ VIACREDI - DD",
+    "palavras_chave": [
+      "PAGO",
+      "MERC",
+      "VIACREDI",
+      "TRANSF"
+    ]
+  },
+  "002917": {
+    "descricao_coi": "TRANSFERENCIA P/ COFRE",
+    "palavras_chave": [
+      "COFRE",
+      "TRANSFERENCIA"
+    ]
+  },
+  "003328": {
+    "descricao_coi": "TRANSFERENCIA P/CX RETAGUARDA",
+    "palavras_chave": [
+      "RETAGUARDA",
+      "TRANSFERENCIA"
+    ]
+  },
+  "004146": {
+    "descricao_coi": "TROCO",
+    "palavras_chave": [
+      "TROCO"
+    ]
+  },
+  "002941": {
+    "descricao_coi": "TROCO INICIAL CAIXA RETAGUARDA",
+    "palavras_chave": [
+      "INICIAL",
+      "RETAGUARDA",
+      "TROCO",
+      "CAIXA"
+    ]
+  },
+  "004138": {
+    "descricao_coi": "Z TRANSFERENCIA P/ CAIXA VENDAS",
+    "palavras_chave": [
+      "TRANSFERENCIA",
+      "VENDAS",
+      "CAIXA"
+    ]
+  }
+}

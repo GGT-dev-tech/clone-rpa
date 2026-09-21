@@ -1,0 +1,1436 @@
+[
+  {
+    "codigo": "003921",
+    "descricao": "(+)",
+    "tipo": "C",
+    "conta_contabil": "REDITO DEV. COMPRA D 1120107 - Credito Devol. Fornecedores"
+  },
+  {
+    "codigo": "000159",
+    "descricao": "(-)",
+    "tipo": "C",
+    "conta_contabil": "REDITO DE FORNECEDORES D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "000167",
+    "descricao": "(-)",
+    "tipo": "C",
+    "conta_contabil": "REDITO DEV. COMPRA C 1120107 - Credito Devol. Fornecedores"
+  },
+  {
+    "codigo": "005827",
+    "descricao": "235",
+    "tipo": "D",
+    "conta_contabil": "2110709 - IPTU a Pagar"
+  },
+  {
+    "codigo": "000094",
+    "descricao": "ADIANTAMENTO A FORNECEDORES",
+    "tipo": "D",
+    "conta_contabil": "1120601 - Adiantamento a Fornecedores"
+  },
+  {
+    "codigo": "000132",
+    "descricao": "ADIANTAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E CLIENTES C 2110301 - Adiantamentos de Clientes"
+  },
+  {
+    "codigo": "000116",
+    "descricao": "ADIANTAMENTO SALARIAL",
+    "tipo": "D",
+    "conta_contabil": "1120602 - Adiantamento a Funcionarios"
+  },
+  {
+    "codigo": "002992",
+    "descricao": "AJUSTE",
+    "tipo": "D",
+    "conta_contabil": "E CHEQUES DEVOLVIDOS C 1120105 - Cheques Devolvidos"
+  },
+  {
+    "codigo": "004545",
+    "descricao": "AJUSTE INFINITY - SOMA",
+    "tipo": "C",
+    "conta_contabil": "ONTA C 4210406 - Taxa Admin. Cartoes"
+  },
+  {
+    "codigo": "004553",
+    "descricao": "AJUSTE INFINITY - SUBTRAI",
+    "tipo": "D",
+    "conta_contabil": "A CONTA D 4210406 - Taxa Admin. Cartoes"
+  },
+  {
+    "codigo": "003816",
+    "descricao": "BAIXA",
+    "tipo": "C",
+    "conta_contabil": "HEQUE ESPECIAL D 2110906 - Cheque Especial Garantida"
+  },
+  {
+    "codigo": "005975",
+    "descricao": "BLOQUEIO JUDICIAL",
+    "tipo": "D",
+    "conta_contabil": "1210102 - Bloqueio Judicial"
+  },
+  {
+    "codigo": "003751",
+    "descricao": "CAPITAL INTEGRALIZADO",
+    "tipo": "C",
+    "conta_contabil": "2410102 - (-) Capital a Integralizar"
+  },
+  {
+    "codigo": "002968",
+    "descricao": "COMPENSACAO",
+    "tipo": "D",
+    "conta_contabil": "E CHEQUES RECEBIDOS C 1120501 - Cheques a Receber"
+  },
+  {
+    "codigo": "003001",
+    "descricao": "CONVERSAO",
+    "tipo": "C",
+    "conta_contabil": "0000005 - CONVERSAO"
+  },
+  {
+    "codigo": "003999",
+    "descricao": "CREDITO",
+    "tipo": "D",
+    "conta_contabil": "EVOLUÇÃO FORNECEDOR D 1120107 - Credito Devol. Fornecedores"
+  },
+  {
+    "codigo": "004510",
+    "descricao": "DB.",
+    "tipo": "C",
+    "conta_contabil": "OTAS D 0131041 - Cotas de Capital Viacredi"
+  },
+  {
+    "codigo": "004111",
+    "descricao": "DEBITO BB 11466-9",
+    "tipo": "C",
+    "conta_contabil": "1110206 - C/C Banco BB 11466-9"
+  },
+  {
+    "codigo": "004030",
+    "descricao": "DEBITO BB 46706-5",
+    "tipo": "C",
+    "conta_contabil": "1110202 - C/C Banco BB 46706-5"
+  },
+  {
+    "codigo": "004057",
+    "descricao": "DEBITO BB 61387-8",
+    "tipo": "C",
+    "conta_contabil": "1110203 - C/C Banco BB 61387-8"
+  },
+  {
+    "codigo": "004952",
+    "descricao": "DEBITO BB 62570-1",
+    "tipo": "C",
+    "conta_contabil": "1110218 - C/C Banco BB 62570-1"
+  },
+  {
+    "codigo": "004065",
+    "descricao": "DEBITO BB 63279-1",
+    "tipo": "C",
+    "conta_contabil": "1110204 - C/C Banco BB 63279-1"
+  },
+  {
+    "codigo": "004154",
+    "descricao": "DEBITO BRADESCO 023046-4",
+    "tipo": "C",
+    "conta_contabil": "1110207 - C/C Banco Bradesco 023046-4"
+  },
+  {
+    "codigo": "004431",
+    "descricao": "DEBITO BRADESCO 0607546-0",
+    "tipo": "C",
+    "conta_contabil": "1110214 - C/C Banco Bradesco 0607546-0"
+  },
+  {
+    "codigo": "004413",
+    "descricao": "DEBITO BRADESCO 0661961-4",
+    "tipo": "C",
+    "conta_contabil": "1110213 - C/C Banco Bradesco 0661961-4"
+  },
+  {
+    "codigo": "005142",
+    "descricao": "DEBITO BRADESCO 253051-1",
+    "tipo": "C",
+    "conta_contabil": "1110221 - C/C Banco Bradesco 253051-1"
+  },
+  {
+    "codigo": "004049",
+    "descricao": "DEBITO BRADESCO 77461-8",
+    "tipo": "C",
+    "conta_contabil": "1110205 - C/C Banco Bradesco 77461-8"
+  },
+  {
+    "codigo": "005894",
+    "descricao": "DEBITO INFINITE PAY-11 23633954-4",
+    "tipo": "C",
+    "conta_contabil": "1110232 - C\\C InfinitePay 23633954-4"
+  },
+  {
+    "codigo": "005886",
+    "descricao": "DEBITO INFINTE PAY 23633954-54",
+    "tipo": "C",
+    "conta_contabil": "1110232 - C\\C InfinitePay 23633954-4"
+  },
+  {
+    "codigo": "003956",
+    "descricao": "DEBITO ITAU 63771-7",
+    "tipo": "C",
+    "conta_contabil": "1110201 - C/C Banco Itaú 63771-7"
+  },
+  {
+    "codigo": "004979",
+    "descricao": "DEBITO VIACREDI 1171331-3",
+    "tipo": "C",
+    "conta_contabil": "1110217 - C/C Banco Viacredi 1171331-3"
+  },
+  {
+    "codigo": "004235",
+    "descricao": "DEBITO VIACREDI-01 1171347-0",
+    "tipo": "C",
+    "conta_contabil": "1110208 - C/C Banco Viacredi 1171347-0"
+  },
+  {
+    "codigo": "004251",
+    "descricao": "DEBITO VIACREDI-02 1175416-8",
+    "tipo": "C",
+    "conta_contabil": "1110209 - C/C Banco Viacredi 1175416-8"
+  },
+  {
+    "codigo": "004261",
+    "descricao": "DEBITO VIACREDI-03 1175430-3",
+    "tipo": "C",
+    "conta_contabil": "1110210 - C/C Banco Viacredi 1175430-3"
+  },
+  {
+    "codigo": "004278",
+    "descricao": "DEBITO VIACREDI-04 1175431-1",
+    "tipo": "C",
+    "conta_contabil": "1110211 - C/C Banco Viacredi 1175431-1"
+  },
+  {
+    "codigo": "004286",
+    "descricao": "DEBITO VIACREDI-05 1175432-0",
+    "tipo": "C",
+    "conta_contabil": "1110212 - C/C Banco Viacredi 1175432-0"
+  },
+  {
+    "codigo": "005045",
+    "descricao": "DEBITO VIACREDI-08 1988375-7",
+    "tipo": "C",
+    "conta_contabil": "1110220 - C/C Banco Viacredi 1988375-7"
+  },
+  {
+    "codigo": "005495",
+    "descricao": "DEBITO VIACREDI-10 2109095-5",
+    "tipo": "C",
+    "conta_contabil": "1110229 - C/C Banco Viacredi 2109095-5"
+  },
+  {
+    "codigo": "005819",
+    "descricao": "DEBITO VIACREDI-11 2156255-5",
+    "tipo": "C",
+    "conta_contabil": "1110231 - C/C Banco Viacredi 2156255-5"
+  },
+  {
+    "codigo": "004121",
+    "descricao": "DEPOSITO BB 11466-9",
+    "tipo": "D",
+    "conta_contabil": "1110206 - C/C Banco BB 11466-9"
+  },
+  {
+    "codigo": "004073",
+    "descricao": "DEPOSITO BB 46706-5",
+    "tipo": "D",
+    "conta_contabil": "1110202 - C/C Banco BB 46706-5"
+  },
+  {
+    "codigo": "004091",
+    "descricao": "DEPOSITO BB 61387-8",
+    "tipo": "D",
+    "conta_contabil": "1110203 - C/C Banco BB 61387-8"
+  },
+  {
+    "codigo": "004960",
+    "descricao": "DEPOSITO BB 62570-1",
+    "tipo": "D",
+    "conta_contabil": "1110218 - C/C Banco BB 62570-1"
+  },
+  {
+    "codigo": "004103",
+    "descricao": "DEPOSITO BB 63279-1",
+    "tipo": "D",
+    "conta_contabil": "1110204 - C/C Banco BB 63279-1"
+  },
+  {
+    "codigo": "004162",
+    "descricao": "DEPOSITO BRADESCO 023046-4",
+    "tipo": "D",
+    "conta_contabil": "1110207 - C/C Banco Bradesco 023046-4"
+  },
+  {
+    "codigo": "004421",
+    "descricao": "DEPOSITO BRADESCO 0661961-4",
+    "tipo": "D",
+    "conta_contabil": "1110213 - C/C Banco Bradesco 0661961-4"
+  },
+  {
+    "codigo": "004081",
+    "descricao": "DEPOSITO BRADESCO 77461-8",
+    "tipo": "D",
+    "conta_contabil": "1110205 - C/C Banco Bradesco 77461-8"
+  },
+  {
+    "codigo": "005861",
+    "descricao": "DEPOSITO INFINITE PAY-11 23633954-4D 1110232 -",
+    "tipo": "C",
+    "conta_contabil": "\\C InfinitePay 23633954-4"
+  },
+  {
+    "codigo": "003697",
+    "descricao": "DEPOSITO ITAU 63771-7",
+    "tipo": "D",
+    "conta_contabil": "1110201 - C/C Banco Itaú 63771-7"
+  },
+  {
+    "codigo": "004987",
+    "descricao": "DEPOSITO VIACREDI-01 1171331-3",
+    "tipo": "D",
+    "conta_contabil": "1110217 - C/C Banco Viacredi 1171331-3"
+  },
+  {
+    "codigo": "004243",
+    "descricao": "DEPOSITO VIACREDI-01 1171347-0",
+    "tipo": "D",
+    "conta_contabil": "1110208 - C/C Banco Viacredi 1171347-0"
+  },
+  {
+    "codigo": "004294",
+    "descricao": "DEPOSITO VIACREDI-02 1175416-8",
+    "tipo": "D",
+    "conta_contabil": "1110209 - C/C Banco Viacredi 1175416-8"
+  },
+  {
+    "codigo": "004308",
+    "descricao": "DEPOSITO VIACREDI-03 1175430-3",
+    "tipo": "D",
+    "conta_contabil": "1110210 - C/C Banco Viacredi 1175430-3"
+  },
+  {
+    "codigo": "004316",
+    "descricao": "DEPOSITO VIACREDI-04 1175431-1",
+    "tipo": "D",
+    "conta_contabil": "1110211 - C/C Banco Viacredi 1175431-1"
+  },
+  {
+    "codigo": "004324",
+    "descricao": "DEPOSITO VIACREDI-05 1175432-0",
+    "tipo": "D",
+    "conta_contabil": "1110212 - C/C Banco Viacredi 1175432-0"
+  },
+  {
+    "codigo": "004456",
+    "descricao": "DEPOSITO VIACREDI-07 1918248-1",
+    "tipo": "D",
+    "conta_contabil": "1110216 - C/C Banco Viacredi 1918248-1"
+  },
+  {
+    "codigo": "005037",
+    "descricao": "DEPOSITO VIACREDI-08 1988375-7",
+    "tipo": "D",
+    "conta_contabil": "1110220 - C/C Banco Viacredi 1988375-7"
+  },
+  {
+    "codigo": "005509",
+    "descricao": "DEPOSITO VIACREDI-10 2109095-5",
+    "tipo": "D",
+    "conta_contabil": "1110229 - C/C Banco Viacredi 2109095-5"
+  },
+  {
+    "codigo": "005789",
+    "descricao": "DEPOSITO VIACREDI-11 21566255-5",
+    "tipo": "D",
+    "conta_contabil": "1110231 - C/C Banco Viacredi 2156255-5"
+  },
+  {
+    "codigo": "005991",
+    "descricao": "DESBLOQUEIO JUDICIAL",
+    "tipo": "C",
+    "conta_contabil": "1210102 - Bloqueio Judicial"
+  },
+  {
+    "codigo": "003069",
+    "descricao": "DESCONTO ANTECIPADO ADMINISTRADORA",
+    "tipo": "D",
+    "conta_contabil": "4210407 - Antecipacao Cartoes a Receber"
+  },
+  {
+    "codigo": "004731",
+    "descricao": "DESCONTO",
+    "tipo": "D",
+    "conta_contabil": "E DUPLICATAS C 1120111 - (-) Duplicatas Descontadas"
+  },
+  {
+    "codigo": "000086",
+    "descricao": "DESCONTO OBTIDO",
+    "tipo": "C",
+    "conta_contabil": "4210403 - Descontos Concedidos"
+  },
+  {
+    "codigo": "000078",
+    "descricao": "DESCONTOS",
+    "tipo": "C",
+    "conta_contabil": "ONCEDIDO D 4210403 - Descontos Concedidos"
+  },
+  {
+    "codigo": "004898",
+    "descricao": "DEV.",
+    "tipo": "D",
+    "conta_contabil": "E ADIANTAMENTO A FORNECEDOREC 1120601 - Adiantamento a Fornecedores"
+  },
+  {
+    "codigo": "002976",
+    "descricao": "DEVOLUCAO",
+    "tipo": "D",
+    "conta_contabil": "E CHEQUES RECEBIDOS D 1120105 - Cheques Devolvidos"
+  },
+  {
+    "codigo": "004758",
+    "descricao": "DEVOLUÇÃO",
+    "tipo": "D",
+    "conta_contabil": "E RECEBIMENTO D 2110301 - Adiantamentos de Clientes"
+  },
+  {
+    "codigo": "004529",
+    "descricao": "EMPRÉSTIMO",
+    "tipo": "D",
+    "conta_contabil": "E TERCEIROS C 2210202 - Emprestimos Terceiros"
+  },
+  {
+    "codigo": "005088",
+    "descricao": "EMPRÉSTIMO PARA TERCEIROS",
+    "tipo": "D",
+    "conta_contabil": "1210201 - Emprestimos a Receber"
+  },
+  {
+    "codigo": "005721",
+    "descricao": "ESTORNO BANCARIO",
+    "tipo": "D",
+    "conta_contabil": "-"
+  },
+  {
+    "codigo": "005770",
+    "descricao": "FRETE INTERMEDIADOR",
+    "tipo": "D",
+    "conta_contabil": "4210413 - Frete Intermediador"
+  },
+  {
+    "codigo": "005479",
+    "descricao": "INCOBRÁVEIS",
+    "tipo": "D",
+    "conta_contabil": "ATA CORTE DEZ2023 D 4210123 - Data Corte DEZ2023"
+  },
+  {
+    "codigo": "005207",
+    "descricao": "JUROS BANCÁRIOS",
+    "tipo": "D",
+    "conta_contabil": "4210411 - Juros Bancarios"
+  },
+  {
+    "codigo": "000051",
+    "descricao": "JUROS PAGOS",
+    "tipo": "D",
+    "conta_contabil": "4210401 - Juros Pagos a Fornecedores"
+  },
+  {
+    "codigo": "003948",
+    "descricao": "JUROS PASSIVOS",
+    "tipo": "C",
+    "conta_contabil": "4210401 - Juros Pagos a Fornecedores"
+  },
+  {
+    "codigo": "000061",
+    "descricao": "JUROS RECEBIDOS",
+    "tipo": "C",
+    "conta_contabil": "3120101 - Juros Recebidos"
+  },
+  {
+    "codigo": "003832",
+    "descricao": "JUROS SOBRE EMPRESTIMOS",
+    "tipo": "D",
+    "conta_contabil": "4210402 - Juros S/Emprestimos"
+  },
+  {
+    "codigo": "003212",
+    "descricao": "MULTAS PAGAS",
+    "tipo": "D",
+    "conta_contabil": "4210408 - Multas Pagas"
+  },
+  {
+    "codigo": "003204",
+    "descricao": "MULTAS RECEBIDAS",
+    "tipo": "C",
+    "conta_contabil": "3120106 - Multas Recebidas"
+  },
+  {
+    "codigo": "003255",
+    "descricao": "NUMERARIOS RECEBIDO",
+    "tipo": "D",
+    "conta_contabil": "E MATRIZ FILI C 2120105 - Numerários Recebidos para Matriz/Filiais"
+  },
+  {
+    "codigo": "005347",
+    "descricao": "PAG. AQUISIÇÃO",
+    "tipo": "D",
+    "conta_contabil": "E IMOBILIZADO D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005428",
+    "descricao": "PAG. BK INST. PAG - PONTUAL MATRIZ",
+    "tipo": "C",
+    "conta_contabil": "1110227 - C/C BK Instituição de Pag. - 835575-2"
+  },
+  {
+    "codigo": "005738",
+    "descricao": "PAG.",
+    "tipo": "C",
+    "conta_contabil": "AIXA GERAL D 4210116 - Alimentação de Pessoal"
+  },
+  {
+    "codigo": "004715",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E ALUGUEL D 2110407 - Aluguel a Pagar"
+  },
+  {
+    "codigo": "004677",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E FGTS A RECOLHER D 2110603 - FGTS a Recolher"
+  },
+  {
+    "codigo": "004685",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E HONORÁRIOS CONTÁBEIS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004669",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E INSS A RECOLHER D 2110602 - INSS a Recolher"
+  },
+  {
+    "codigo": "004707",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E MANUTENÇÃO DE INFORMÁTICA D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004650",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E MENSALIDADE DE SOFTWARES D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005762",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "E MULTAS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004911",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ECIMO TERCEIRO D 2110501 - Salarios a Pagar"
+  },
+  {
+    "codigo": "005071",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESP. COM INTERNET/ TELEFONE D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005118",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESA C/ MANUT. PREDIAL D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004936",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESA MATERIAL LIMPEZA D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005576",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ ADVOGADOS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005622",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ AGUA D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005967",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ AUX TRANSPORTE D 2110408 - vale Transporte a pagar"
+  },
+  {
+    "codigo": "005126",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ COMBUSTIVEIS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005185",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ EMBALAGENS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005381",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ HOSPEDAGEM D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005231",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ IPVA D 2110710 - IPVA a Pagar"
+  },
+  {
+    "codigo": "005355",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ MANUT. E REPAROS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005241",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ MATERIAL OFICINA D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005177",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ SEGUROS D 2110404 - Seguros a Pagar"
+  },
+  {
+    "codigo": "005134",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ TAXAS MUNICIPAIS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005096",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS C/ TELEFONE D 2110402 - Telefone a Pagar"
+  },
+  {
+    "codigo": "004881",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS COM ALIMENTAÇÃO D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004863",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS COM FRETE D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005835",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS COM IPTU D 2110709 - IPTU a Pagar"
+  },
+  {
+    "codigo": "005924",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS COM PEDÁGIO D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005061",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS COM SEGURANÇA D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004944",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS COM SERVIÇOS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005101",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS DE COPA E COZINHA D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005193",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS DIVERSAS D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004871",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS MATERIAL EXPEDIENTE D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004642",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS MEDICINA DO TRABALHO D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005444",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS RESCISAO DE CONTRATO D 2110505 - Rescisoes a Pagar"
+  },
+  {
+    "codigo": "005401",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS SEM DOCUMENTO FISCAL D 2110103 - Despesas Não Dedutíveis"
+  },
+  {
+    "codigo": "004995",
+    "descricao": "PAG.",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS USO E CONSUMO D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005940",
+    "descricao": "PAG. EMPRESTIMO BANCO BRASIL BB",
+    "tipo": "D",
+    "conta_contabil": "2110907 - EMPRESTIMO BANCO DO BRASIL"
+  },
+  {
+    "codigo": "005592",
+    "descricao": "PAG. EMPRESTIMOS VIACREDI",
+    "tipo": "D",
+    "conta_contabil": "2110908 - Emprestimo Viacredi"
+  },
+  {
+    "codigo": "005649",
+    "descricao": "PAG. ENERGIA ELETRICA",
+    "tipo": "D",
+    "conta_contabil": "2110401 - Energia Eletrica a Pagar"
+  },
+  {
+    "codigo": "004847",
+    "descricao": "PAG. FUNDO",
+    "tipo": "D",
+    "conta_contabil": "E COMERCIO D 2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004901",
+    "descricao": "PAG. IMPOSTOS E TAXAS",
+    "tipo": "D",
+    "conta_contabil": "IVERSAS D 2110713 - Impostos e Taxas Diversas a Pagar"
+  },
+  {
+    "codigo": "005630",
+    "descricao": "PAG. ISS",
+    "tipo": "D",
+    "conta_contabil": "2110706 - ISS a Pagar"
+  },
+  {
+    "codigo": "004820",
+    "descricao": "PAG. MANUT. VEICULOS PRODUTO",
+    "tipo": "D",
+    "conta_contabil": "2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004839",
+    "descricao": "PAG. MANUT. VEICULOS SERVIÇOS",
+    "tipo": "D",
+    "conta_contabil": "2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004855",
+    "descricao": "PAG. PROPAGANDA E PUBLICIDADE",
+    "tipo": "D",
+    "conta_contabil": "2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004601",
+    "descricao": "PAG. SIMPLES NACIONAL",
+    "tipo": "D",
+    "conta_contabil": "2110708 - Simples Nacional a Pagar"
+  },
+  {
+    "codigo": "005657",
+    "descricao": "PAG. TAXAS MUNICIPAIS",
+    "tipo": "D",
+    "conta_contabil": "2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "004571",
+    "descricao": "PAGAM",
+    "tipo": "D",
+    "conta_contabil": "E EMPRÉSTIMO DE TERCEIROS D 2210202 - Emprestimos Terceiros"
+  },
+  {
+    "codigo": "005606",
+    "descricao": "PAGAM. LARANJINHA ITAU 01-MATRIZ",
+    "tipo": "C",
+    "conta_contabil": "1110201 - C/C Banco Itaú 63771-7"
+  },
+  {
+    "codigo": "005282",
+    "descricao": "PAGAM. INFINITEPAY 01 - MATRIZ",
+    "tipo": "C",
+    "conta_contabil": "1110224 - C/C Infinitepay - 11266931-0"
+  },
+  {
+    "codigo": "005290",
+    "descricao": "PAGAM. INFINITEPAY 02 - FL.JLLE 1",
+    "tipo": "C",
+    "conta_contabil": "1110223 - C/C Infinitepay - 10089834-2"
+  },
+  {
+    "codigo": "005304",
+    "descricao": "PAGAM. INFINITEPAY 04 - FL. BALN.",
+    "tipo": "C",
+    "conta_contabil": "C 1110225 - C/C InfinitePay - 10088398-1"
+  },
+  {
+    "codigo": "005320",
+    "descricao": "PAGAM. INFINITEPAY 05 - FL.JLLE 2",
+    "tipo": "C",
+    "conta_contabil": "1110226 - C/C InfinitePay - 10265084-1"
+  },
+  {
+    "codigo": "004561",
+    "descricao": "PAGAM. INFINITEPAY 07 -",
+    "tipo": "D",
+    "conta_contabil": "D VIDROS C 1110215 - C/C InfinitePay - 10215708-1"
+  },
+  {
+    "codigo": "005312",
+    "descricao": "PAGAM. INFINITEPAY 08 - J2 VIDROS",
+    "tipo": "C",
+    "conta_contabil": "1110222 - C/C Infinitepay - 15389399-5"
+  },
+  {
+    "codigo": "005551",
+    "descricao": "PAGAM. INFINITEPAY 10 - JBC",
+    "tipo": "C",
+    "conta_contabil": "1110230 - C/C Infinitepay 20675238-2"
+  },
+  {
+    "codigo": "003190",
+    "descricao": "PAGAMENTO",
+    "tipo": "C",
+    "conta_contabil": "OMISSOES D 2110502 - Comissoes a Pagar"
+  },
+  {
+    "codigo": "000027",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E CAIXA COFRE C 1110101 - Caixa Cofre"
+  },
+  {
+    "codigo": "002933",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E CAIXA RETAGUARDA C 1110103 - Caixa Retaguarda"
+  },
+  {
+    "codigo": "002925",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E CAIXA VENDAS C 1110102 - Caixa Vendas"
+  },
+  {
+    "codigo": "003581",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E FERIAS D 2110503 - Ferias a Pagar"
+  },
+  {
+    "codigo": "004618",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E SALÁRIOS D 2110501 - Salarios a Pagar"
+  },
+  {
+    "codigo": "004766",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "E TITULO DESCONTADO E NÃD 1120111 - (-) Duplicatas Descontadas"
+  },
+  {
+    "codigo": "003182",
+    "descricao": "PAGAMENTO",
+    "tipo": "D",
+    "conta_contabil": "EVOLUCAO DE VENDAS D 2110304 - Credito Devol. de Clientes"
+  },
+  {
+    "codigo": "003786",
+    "descricao": "PAGAMENTO EMPRÉSTIMO 18.628",
+    "tipo": "D",
+    "conta_contabil": "2110902 - Emp. Banco Itau 18.628-0"
+  },
+  {
+    "codigo": "003794",
+    "descricao": "PAGAMENTO EMPRÉSTIMO 18.629",
+    "tipo": "D",
+    "conta_contabil": "2110901 - Emp. Banco Itau 18.629-8"
+  },
+  {
+    "codigo": "005568",
+    "descricao": "PAGAMENTO EMPRÉSTIMO ITAÚ",
+    "tipo": "D",
+    "conta_contabil": "2110909 - Emprestimo Itau"
+  },
+  {
+    "codigo": "000043",
+    "descricao": "PAGAMENTO FORNECEDORES",
+    "tipo": "D",
+    "conta_contabil": "-"
+  },
+  {
+    "codigo": "005932",
+    "descricao": "PAGAMENTO ICMS",
+    "tipo": "D",
+    "conta_contabil": "2110701 - ICMS a Pagar"
+  },
+  {
+    "codigo": "003743",
+    "descricao": "PAGAMENTO ICMS FRONTEIRAS",
+    "tipo": "D",
+    "conta_contabil": "2110701 - ICMS a Pagar"
+  },
+  {
+    "codigo": "004502",
+    "descricao": "PAGAMENTO PELO MERCADO PAGO/LIVRE",
+    "tipo": "C",
+    "conta_contabil": "1110219 - C/C Mercado Pago 2881383195-5"
+  },
+  {
+    "codigo": "005533",
+    "descricao": "PAGAMENTO VIACREDI 2109095-5",
+    "tipo": "C",
+    "conta_contabil": "1110229 - C/C Banco Viacredi 2109095-5"
+  },
+  {
+    "codigo": "003131",
+    "descricao": "PAGAMENTOS",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS (CAIXA) D -"
+  },
+  {
+    "codigo": "003018",
+    "descricao": "PAGAMENTOS",
+    "tipo": "D",
+    "conta_contabil": "ESPESAS (NOTAS) D -"
+  },
+  {
+    "codigo": "005754",
+    "descricao": "PAGAMENTOS LARISSA",
+    "tipo": "D",
+    "conta_contabil": "4220105 - Pagamentos Larissa"
+  },
+  {
+    "codigo": "004928",
+    "descricao": "PAGAMENTOS ONEIDE",
+    "tipo": "D",
+    "conta_contabil": "0001880 - Pagamentos Oneide"
+  },
+  {
+    "codigo": "004774",
+    "descricao": "PAGAMENTOS VIACREDI-01 1171347-0",
+    "tipo": "C",
+    "conta_contabil": "1110208 - C/C Banco Viacredi 1171347-0"
+  },
+  {
+    "codigo": "004782",
+    "descricao": "PAGAMENTOS VIACREDI-02 1175416-8",
+    "tipo": "C",
+    "conta_contabil": "1110209 - C/C Banco Viacredi 1175416-8"
+  },
+  {
+    "codigo": "004812",
+    "descricao": "PAGAMENTOS VIACREDI-03 1175430-3",
+    "tipo": "C",
+    "conta_contabil": "1110210 - C/C Banco Viacredi 1175430-3"
+  },
+  {
+    "codigo": "004790",
+    "descricao": "PAGAMENTOS VIACREDI-04 1175431-1",
+    "tipo": "C",
+    "conta_contabil": "1110211 - C/C Banco Viacredi 1175431-1"
+  },
+  {
+    "codigo": "004804",
+    "descricao": "PAGAMENTOS VIACREDI-05 1175432-0",
+    "tipo": "C",
+    "conta_contabil": "1110212 - C/C Banco Viacredi 1175432-0"
+  },
+  {
+    "codigo": "004464",
+    "descricao": "PAGAMENTOS VIACREDI-07 1918248-1",
+    "tipo": "C",
+    "conta_contabil": "1110216 - C/C Banco Viacredi 1918248-1"
+  },
+  {
+    "codigo": "005169",
+    "descricao": "PAGAMENTOS VIACREDI-08 1988375-7",
+    "tipo": "C",
+    "conta_contabil": "1110220 - C/C Banco Viacredi 1988375-7"
+  },
+  {
+    "codigo": "005460",
+    "descricao": "PAGAMENTOS VIACREDI-09 2079362-6",
+    "tipo": "C",
+    "conta_contabil": "1110228 - C/C Banco Viacredi 2079362-6"
+  },
+  {
+    "codigo": "005800",
+    "descricao": "PAGAMENTOS VIACREDI-11 2156255-5",
+    "tipo": "C",
+    "conta_contabil": "1110231 - C/C Banco Viacredi 2156255-5"
+  },
+  {
+    "codigo": "005916",
+    "descricao": "PENSÃO ALIMENTÍCIA",
+    "tipo": "D",
+    "conta_contabil": "2110102 - Outros Fornecedores"
+  },
+  {
+    "codigo": "005691",
+    "descricao": "PIX A RECEBER",
+    "tipo": "C",
+    "conta_contabil": "1120110 - Pix a receber"
+  },
+  {
+    "codigo": "004189",
+    "descricao": "PIX BB 11466-9",
+    "tipo": "D",
+    "conta_contabil": "1110206 - C/C Banco BB 11466-9"
+  },
+  {
+    "codigo": "004170",
+    "descricao": "PIX BB 46706-5",
+    "tipo": "D",
+    "conta_contabil": "1110202 - C/C Banco BB 46706-5"
+  },
+  {
+    "codigo": "004227",
+    "descricao": "PIX BB 61387-8",
+    "tipo": "D",
+    "conta_contabil": "1110203 - C/C Banco BB 61387-8"
+  },
+  {
+    "codigo": "004200",
+    "descricao": "PIX BB 63279-1",
+    "tipo": "D",
+    "conta_contabil": "1110204 - C/C Banco BB 63279-1"
+  },
+  {
+    "codigo": "004197",
+    "descricao": "PIX ITAU 63771-7",
+    "tipo": "D",
+    "conta_contabil": "1110201 - C/C Banco Itaú 63771-7"
+  },
+  {
+    "codigo": "004340",
+    "descricao": "PIX VIACREDI-01 1171347-0",
+    "tipo": "D",
+    "conta_contabil": "1110208 - C/C Banco Viacredi 1171347-0"
+  },
+  {
+    "codigo": "004359",
+    "descricao": "PIX VIACREDI-02 1175416-8",
+    "tipo": "D",
+    "conta_contabil": "1110209 - C/C Banco Viacredi 1175416-8"
+  },
+  {
+    "codigo": "004391",
+    "descricao": "PIX VIACREDI-03 1175430-3",
+    "tipo": "D",
+    "conta_contabil": "1110210 - C/C Banco Viacredi 1175430-3"
+  },
+  {
+    "codigo": "004405",
+    "descricao": "PIX VIACREDI-04 1175431-1",
+    "tipo": "D",
+    "conta_contabil": "1110211 - C/C Banco Viacredi 1175431-1"
+  },
+  {
+    "codigo": "004383",
+    "descricao": "PIX VIACREDI-05 1175432-0",
+    "tipo": "D",
+    "conta_contabil": "1110212 - C/C Banco Viacredi 1175432-0"
+  },
+  {
+    "codigo": "005517",
+    "descricao": "PIX VIACREDI-10 2109095-5",
+    "tipo": "D",
+    "conta_contabil": "1110229 - C/C Banco Viacredi 2109095-5"
+  },
+  {
+    "codigo": "005843",
+    "descricao": "PIX VIACREDI-11 2156255-5",
+    "tipo": "D",
+    "conta_contabil": "1110231 - C/C Banco Viacredi 2156255-5"
+  },
+  {
+    "codigo": "004596",
+    "descricao": "POUPANÇA PROGRAMADA",
+    "tipo": "D",
+    "conta_contabil": "0011132 - Poupança Programada Viacredi"
+  },
+  {
+    "codigo": "002984",
+    "descricao": "REAPRESENTACAO",
+    "tipo": "D",
+    "conta_contabil": "E CHEQUES DEVOLV. C 1120105 - Cheques Devolvidos"
+  },
+  {
+    "codigo": "005436",
+    "descricao": "REC. INDENIZAÇÕES",
+    "tipo": "D",
+    "conta_contabil": "E TERCEIROS C 3210203 - Indenizações de Terceiros"
+  },
+  {
+    "codigo": "002951",
+    "descricao": "RECBTO",
+    "tipo": "C",
+    "conta_contabil": "HEQUE A VISTA/PRE-DATADO D 1120501 - Cheques a Receber"
+  },
+  {
+    "codigo": "005411",
+    "descricao": "RECEB. BK INST. PAG - PONTUAL MAT.",
+    "tipo": "D",
+    "conta_contabil": "1110227 - C/C BK Instituição de Pag. - 835575-2"
+  },
+  {
+    "codigo": "004723",
+    "descricao": "RECEB.",
+    "tipo": "D",
+    "conta_contabil": "E DUPLICATA DESCONTADA D 1120111 - (-) Duplicatas Descontadas"
+  },
+  {
+    "codigo": "005274",
+    "descricao": "RECEB. INFINITEPAY 01 - MATRIZ",
+    "tipo": "D",
+    "conta_contabil": "1110224 - C/C Infinitepay - 11266931-0"
+  },
+  {
+    "codigo": "005266",
+    "descricao": "RECEB. INFINITEPAY 02 - FL.JLLE 1",
+    "tipo": "D",
+    "conta_contabil": "1110223 - C/C Infinitepay - 10089834-2"
+  },
+  {
+    "codigo": "005258",
+    "descricao": "RECEB. INFINITEPAY 04 - FL. BALN.",
+    "tipo": "C",
+    "conta_contabil": "D 1110225 - C/C InfinitePay - 10088398-1"
+  },
+  {
+    "codigo": "005339",
+    "descricao": "RECEB. INFINITEPAY 05 - FL.JLLE 2",
+    "tipo": "D",
+    "conta_contabil": "1110226 - C/C InfinitePay - 10265084-1"
+  },
+  {
+    "codigo": "004448",
+    "descricao": "RECEB. INFINITEPAY 07 -",
+    "tipo": "D",
+    "conta_contabil": "D VIDROS D 1110215 - C/C InfinitePay - 10215708-1"
+  },
+  {
+    "codigo": "005223",
+    "descricao": "RECEB. INFINITEPAY 08 - J2 VIDROS",
+    "tipo": "D",
+    "conta_contabil": "1110222 - C/C Infinitepay - 15389399-5"
+  },
+  {
+    "codigo": "005541",
+    "descricao": "RECEB. INFINITEPAY 10 - JBC",
+    "tipo": "D",
+    "conta_contabil": "1110230 - C/C Infinitepay 20675238-2"
+  },
+  {
+    "codigo": "005614",
+    "descricao": "RECEB. LARANJINHA ITAU 01- MATRIZ",
+    "tipo": "D",
+    "conta_contabil": "1110201 - C/C Banco Itaú 63771-7"
+  },
+  {
+    "codigo": "003174",
+    "descricao": "RECEBIMENTO ADMINISTRADORAS",
+    "tipo": "C",
+    "conta_contabil": "1120102 - Cartoes a Receber"
+  },
+  {
+    "codigo": "003158",
+    "descricao": "RECEBIMENTO",
+    "tipo": "C",
+    "conta_contabil": "AIXA COFRE D 1110101 - Caixa Cofre"
+  },
+  {
+    "codigo": "000019",
+    "descricao": "RECEBIMENTO",
+    "tipo": "C",
+    "conta_contabil": "AIXA RETAGUARDA D 1110103 - Caixa Retaguarda"
+  },
+  {
+    "codigo": "003141",
+    "descricao": "RECEBIMENTO",
+    "tipo": "C",
+    "conta_contabil": "AIXA VENDAS D 1110102 - Caixa Vendas"
+  },
+  {
+    "codigo": "000035",
+    "descricao": "RECEBIMENTO",
+    "tipo": "D",
+    "conta_contabil": "E DUPLICATA C 1120101 - Duplicatas a Receber"
+  },
+  {
+    "codigo": "003166",
+    "descricao": "RECEBIMENTO EM",
+    "tipo": "C",
+    "conta_contabil": "ARTAO D 1120102 - Cartoes a Receber"
+  },
+  {
+    "codigo": "002909",
+    "descricao": "RECEBIMENTO FRENTE",
+    "tipo": "D",
+    "conta_contabil": "E CAIXA C 1120101 - Duplicatas a Receber"
+  },
+  {
+    "codigo": "005851",
+    "descricao": "RECEBIMENTO INFINITE PAY-11 23633",
+    "tipo": "D",
+    "conta_contabil": "1110232 - C\\C InfinitePay 23633954-4"
+  },
+  {
+    "codigo": "004499",
+    "descricao": "RECEBIMENTO PELO MERCADO PAGO/LIVRED 1110219 -",
+    "tipo": "C",
+    "conta_contabil": "/C Mercado Pago 2881383195-5"
+  },
+  {
+    "codigo": "005363",
+    "descricao": "RECEBIMENTO VIACREDI-04 -1175431-1",
+    "tipo": "D",
+    "conta_contabil": "1110211 - C/C Banco Viacredi 1175431-1"
+  },
+  {
+    "codigo": "004480",
+    "descricao": "RECEBIMENTO VIACREDI-07 1918248-1",
+    "tipo": "D",
+    "conta_contabil": "1110216 - C/C Banco Viacredi 1918248-1"
+  },
+  {
+    "codigo": "005150",
+    "descricao": "RECEBIMENTO VIACREDI-08 1988375-7",
+    "tipo": "D",
+    "conta_contabil": "1110220 - C/C Banco Viacredi 1988375-7"
+  },
+  {
+    "codigo": "005452",
+    "descricao": "RECEBIMENTO VIACREDI-09 2079362-6",
+    "tipo": "D",
+    "conta_contabil": "1110228 - C/C Banco Viacredi 2079362-6"
+  },
+  {
+    "codigo": "005525",
+    "descricao": "RECEBIMENTO VIACREDI-10 2109095-5",
+    "tipo": "D",
+    "conta_contabil": "1110229 - C/C Banco Viacredi 2109095-5"
+  },
+  {
+    "codigo": "005797",
+    "descricao": "RECEBIMENTO VIACREDI-11 2156255-5",
+    "tipo": "D",
+    "conta_contabil": "1110231 - C/C Banco Viacredi 2156255-5"
+  },
+  {
+    "codigo": "004006",
+    "descricao": "RECEITA",
+    "tipo": "D",
+    "conta_contabil": "E DESCONTOS OBTIDOS C 3120102 - Descontos Obtidos"
+  },
+  {
+    "codigo": "003931",
+    "descricao": "RECEITA FINANCEIRA -",
+    "tipo": "D",
+    "conta_contabil": "ESCONTOS OBTIC 3120102 - Descontos Obtidos"
+  },
+  {
+    "codigo": "005983",
+    "descricao": "REEMB",
+    "tipo": "C",
+    "conta_contabil": "OMPRA GARANTIDA MERCADO LIVRC 3120107 - Reemb. de Compra Garant. Mercado Livre"
+  },
+  {
+    "codigo": "002461",
+    "descricao": "REEMBOLSO ADTO",
+    "tipo": "C",
+    "conta_contabil": "LIENTE D 2110301 - Adiantamentos de Clientes"
+  },
+  {
+    "codigo": "002471",
+    "descricao": "REEMBOLSO ADTO FORNECEDOR",
+    "tipo": "C",
+    "conta_contabil": "1120601 - Adiantamento a Fornecedores"
+  },
+  {
+    "codigo": "002526",
+    "descricao": "REEMBOLSO ADTO SALARIAL",
+    "tipo": "C",
+    "conta_contabil": "1120602 - Adiantamento a Funcionarios"
+  },
+  {
+    "codigo": "005398",
+    "descricao": "REEMBOLSO",
+    "tipo": "D",
+    "conta_contabil": "E TARIFAS MERC LIVRE C 4210121 - Tarifa de Vendas Mercado Livre"
+  },
+  {
+    "codigo": "003451",
+    "descricao": "RENDIMENTO APLICACOES",
+    "tipo": "C",
+    "conta_contabil": "3120103 - Rendimentos de Aplicacoes"
+  },
+  {
+    "codigo": "005746",
+    "descricao": "RESGATE APLICAÇÃO PROGRAMADA",
+    "tipo": "C",
+    "conta_contabil": "0011132 - Poupança Programada Viacredi"
+  },
+  {
+    "codigo": "005053",
+    "descricao": "TARIFA",
+    "tipo": "D",
+    "conta_contabil": "E ENVIOS MERCADO LIVRE D 4210122 - Tarifa de Envios - Mercado Livre"
+  },
+  {
+    "codigo": "005029",
+    "descricao": "TARIFA/TAXA",
+    "tipo": "D",
+    "conta_contabil": "E MERCADO LIVRE D 4210121 - Tarifa de Vendas Mercado Livre"
+  },
+  {
+    "codigo": "003281",
+    "descricao": "TARIFAS BANCARIAS",
+    "tipo": "D",
+    "conta_contabil": "4210404 - Despesas Bancarias"
+  },
+  {
+    "codigo": "004741",
+    "descricao": "TARIFAS",
+    "tipo": "D",
+    "conta_contabil": "E DESCONTOS DE TITULOS D 4210412 - Juros Sobre Descontos de Títulos"
+  },
+  {
+    "codigo": "003050",
+    "descricao": "TAXA ADMINISTRADORA",
+    "tipo": "D",
+    "conta_contabil": "4210406 - Taxa Admin. Cartoes"
+  },
+  {
+    "codigo": "005908",
+    "descricao": "TAXA REEMBOLSO",
+    "tipo": "C",
+    "conta_contabil": "4210414 - Taxa Adm de Reembolso"
+  },
+  {
+    "codigo": "005959",
+    "descricao": "TRANSF. INFINITE P/ VIACRED L11",
+    "tipo": "C",
+    "conta_contabil": "1110232 - C\\C InfinitePay 23633954-4"
+  },
+  {
+    "codigo": "004537",
+    "descricao": "TRANSF. INFINITY P/ VIACREDI -",
+    "tipo": "D",
+    "conta_contabil": "D C 1110215 - C/C InfinitePay - 10215708-1"
+  },
+  {
+    "codigo": "005673",
+    "descricao": "TRANSF. INFINITY P/ VIACREDI - J1",
+    "tipo": "C",
+    "conta_contabil": "1110223 - C/C Infinitepay - 10089834-2"
+  },
+  {
+    "codigo": "005215",
+    "descricao": "TRANSF. INFINITY P/ VIACREDI - J2",
+    "tipo": "C",
+    "conta_contabil": "1110222 - C/C Infinitepay - 15389399-5"
+  },
+  {
+    "codigo": "005665",
+    "descricao": "TRANSF. INFINITY P/ VIACREDI - JBC",
+    "tipo": "C",
+    "conta_contabil": "1110230 - C/C Infinitepay 20675238-2"
+  },
+  {
+    "codigo": "005703",
+    "descricao": "TRANSF. INFINITY P/ VIACREDI - MATRC 1110224 -",
+    "tipo": "C",
+    "conta_contabil": "/C Infinitepay - 11266931-0"
+  },
+  {
+    "codigo": "005711",
+    "descricao": "TRANSF. ITAÚ P/ VIACREDI - MATRIZ",
+    "tipo": "C",
+    "conta_contabil": "1110201 - C/C Banco Itaú 63771-7"
+  },
+  {
+    "codigo": "005371",
+    "descricao": "TRANSF. MERC.PAGO P/ VIACREDI -",
+    "tipo": "D",
+    "conta_contabil": "D C 1110219 - C/C Mercado Pago 2881383195-5"
+  },
+  {
+    "codigo": "002917",
+    "descricao": "TRANSFERENCIA P/",
+    "tipo": "C",
+    "conta_contabil": "OFRE D 1110101 - Caixa Cofre"
+  },
+  {
+    "codigo": "003328",
+    "descricao": "TRANSFERENCIA P/CX RETAGUARDA",
+    "tipo": "D",
+    "conta_contabil": "1110103 - Caixa Retaguarda"
+  },
+  {
+    "codigo": "004146",
+    "descricao": "TROCO",
+    "tipo": "C",
+    "conta_contabil": "-"
+  },
+  {
+    "codigo": "002941",
+    "descricao": "TROCO INICIAL",
+    "tipo": "C",
+    "conta_contabil": "AIXA RETAGUARDA D 1110103 - Caixa Retaguarda"
+  },
+  {
+    "codigo": "004138",
+    "descricao": "Z TRANSFERENCIA P/",
+    "tipo": "C",
+    "conta_contabil": "AIXA VENDAS D 1110102 - Caixa Vendas"
+  }
+]
